@@ -50,6 +50,13 @@ async function build() {
   html = html.replace('style.css', 'style.min.css');
   fs.writeFileSync(path.join(distDir, 'index.html'), html);
 
+  // Copy favicon
+  console.log('Copying favicon...');
+  fs.copyFileSync(
+    path.join(publicDir, 'favicon.svg'),
+    path.join(distDir, 'favicon.svg')
+  );
+
   // Copy data files
   console.log('Copying data files...');
   const dataDir = path.join(publicDir, 'data');
