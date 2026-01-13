@@ -10,7 +10,7 @@
 <body>
   <header id="title-bar">
     <h1>Calles de Buenos Aires</h1>
-    <p>Historia y origen de los nombres</p>
+    <p><a href="#" id="about-link">Acerca de este proyecto</a></p>
     <div id="search-container">
       <input type="text" id="search-input" placeholder="Buscar calle..." autocomplete="off">
       <div id="search-results"></div>
@@ -23,6 +23,29 @@
     <div id="street-history"></div>
   </div>
   <div id="loading">Cargando mapa...</div>
+  <div id="about-modal" class="hidden">
+    <div id="about-content">
+      <button id="close-about">&times;</button>
+      <h2>Acerca de este proyecto</h2>
+
+      <h3>Fuente de datos</h3>
+      <p>La información histórica de las calles proviene del libro <em>"Las calles de Buenos Aires. Sus nombres desde la fundación hasta nuestros días"</em> de Alberto Gabriel Piñeiro, publicado por el Instituto Histórico de la Ciudad de Buenos Aires (2003).</p>
+
+      <h3>Datos técnicos</h3>
+      <ul>
+        <li>2.072 calles documentadas con su historia</li>
+        <li>Geometría de calles obtenida de OpenStreetMap</li>
+        <li>Las calles en <span style="color: #38a169; font-weight: bold;">verde</span> tienen información histórica disponible</li>
+      </ul>
+
+      <h3>Código fuente</h3>
+      <p><a href="https://github.com/fmariluis/calles-de-buenos-aires" target="_blank">Ver en GitHub</a></p>
+
+      <div class="attribution">
+        Desarrollado por <a href="https://github.com/fmariluis" target="_blank">Franco Mariluis</a>
+      </div>
+    </div>
+  </div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="app.js"></script>
 </body>

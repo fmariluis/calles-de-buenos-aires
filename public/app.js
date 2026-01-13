@@ -308,10 +308,27 @@ function selectStreet(streetName) {
 // Event listeners
 document.getElementById('close-panel').addEventListener('click', closePanel);
 
-// Close panel with Escape key
+// About modal
+document.getElementById('about-link').addEventListener('click', (e) => {
+  e.preventDefault();
+  document.getElementById('about-modal').classList.remove('hidden');
+});
+
+document.getElementById('close-about').addEventListener('click', () => {
+  document.getElementById('about-modal').classList.add('hidden');
+});
+
+document.getElementById('about-modal').addEventListener('click', (e) => {
+  if (e.target.id === 'about-modal') {
+    document.getElementById('about-modal').classList.add('hidden');
+  }
+});
+
+// Close panels with Escape key
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') {
     closePanel();
+    document.getElementById('about-modal').classList.add('hidden');
   }
 });
 
