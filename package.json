@@ -1,0 +1,12 @@
+{
+  "name": "calles-de-buenos-aires",
+  "version": "1.0.0",
+  "description": "Interactive map showing the history of Buenos Aires street names",
+  "scripts": {
+    "dev": "cd public && python3 -m http.server 8080",
+    "fetch-streets": "node scripts/fetch_streets.js",
+    "analyze": "node scripts/analyze_matching.js"
+  },
+  "keywords": ["buenos-aires", "streets", "history", "map"],
+  "license": "MIT"
+}

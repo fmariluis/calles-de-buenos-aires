@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calles de Buenos Aires - Historia</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header id="title-bar">
+    <h1>Calles de Buenos Aires</h1>
+    <p>Historia y origen de los nombres</p>
+  </header>
+  <div id="map"></div>
+  <div id="info-panel" class="hidden">
+    <button id="close-panel">&times;</button>
+    <h2 id="street-name"></h2>
+    <div id="street-history"></div>
+  </div>
+  <div id="loading">Cargando mapa...</div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
