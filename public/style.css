@@ -452,6 +452,25 @@ body {
     left: 10px;
     right: 60px;
     max-width: calc(100vw - 70px);
+    padding: 10px 14px;
+  }
+
+  #title-bar h1 {
+    font-size: 1.1rem;
+  }
+
+  #title-bar p {
+    font-size: 0.8rem;
+    margin: 2px 0 0 0;
+  }
+
+  #search-container {
+    margin-top: 8px;
+  }
+
+  #search-input {
+    font-size: 0.9rem;
+    padding: 7px 10px;
   }
 
   .location-notification {
