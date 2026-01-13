@@ -221,6 +221,20 @@ body {
   text-decoration: underline;
 }
 
+.wikipedia-section {
+  background: #f8f9fa;
+  border-left: 3px solid #3366cc;
+  padding-left: 12px;
+  margin-left: -12px;
+}
+
+.wikipedia-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #3366cc;
+  font-size: 0.9rem;
+}
+
 #about-modal {
   position: fixed;
   top: 0;

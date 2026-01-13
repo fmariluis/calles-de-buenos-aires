@@ -278,7 +278,12 @@
           "description": "La denominación Laprida segunda abarcaba el tramo de Agüero comprendido entre las actuales Córdoba y del Libertador. Laprida segunda: denominación dada por su trazado paralelo a Laprida. Véase aclaración en ACEVEDO SEGUNDA.",
           "etymology": "denominación dada por su trazado paralelo a Laprida."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Agüero",
+        "summary": "La Calle Agüero es una arteria vial de la Ciudad de Buenos Aires y cruza los barrios de Balvanera y Recoleta.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Ag%C3%BCero"
+      }
     },
     {
       "current_name": "AIETA, DON ANSELMO",
@@ -395,7 +400,12 @@
       "previous_names": [
         "Independencia",
         "Provincias Unidas"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Juan Bautista Alberdi (Buenos Aires)",
+        "summary": "La avenida Juan Bautista Alberdi es una importante arteria vial de la Ciudad de Buenos Aires, Argentina.\nDebe su nombre al reconocido político, jurista y escritor argentino de ideología liberal, Juan Bautista Alberdi.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Juan_Bautista_Alberdi_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ALBERTI",
@@ -429,7 +439,12 @@
         "Camino o Calle al Paso de Burgos",
         "Camino a Puente Alsina",
         "Galicia"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Figueroa Alcorta",
+        "summary": "La avenida Presidente Figueroa Alcorta es una importante arteria de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Figueroa_Alcorta"
+      }
     },
     {
       "current_name": "ALEM, LEANDRO N.",
@@ -440,7 +455,12 @@
         "Paseo de la Ribera",
         "Paseo de la Encarnación",
         "Paseo de Julio"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Leandro N. Alem (Buenos Aires)",
+        "summary": "La avenida Leandro N. Alem es una arteria vial de la zona denominada El Bajo de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Leandro_N._Alem_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ALEMANIA",
@@ -621,12 +641,22 @@
         {
           "name": "PROGRESO"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Alvear",
+        "summary": "La avenida Alvear es una arteria vial de la ciudad de Buenos Aires, Argentina. Se localiza en los barrios porteños de Recoleta y Retiro.\nLa Legislatura porteña aprobó el proyecto para declararla Área de Protección Histórica. Un estudio de la cadena estadounidense de televisión NBC la ubicaba entre las cinco principales del mundo por la relación calidad, glamour y precio en sus negocios.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Alvear"
+      }
     },
     {
       "current_name": "ALVEAR, EMILIO DE",
       "description": "Ordenanza N° 5.571/1934, B.M. N° 3.681-2. Lourdes. Plano Bemporat, 1931/1932.",
-      "legal_basis": "Ordenanza N° 5."
+      "legal_basis": "Ordenanza N° 5.",
+      "wikipedia": {
+        "title": "Avenida Alvear",
+        "summary": "La avenida Alvear es una arteria vial de la ciudad de Buenos Aires, Argentina. Se localiza en los barrios porteños de Recoleta y Retiro.\nLa Legislatura porteña aprobó el proyecto para declararla Área de Protección Histórica. Un estudio de la cadena estadounidense de televisión NBC la ubicaba entre las cinco principales del mundo por la relación calidad, glamour y precio en sus negocios.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Alvear"
+      }
     },
     {
       "current_name": "ALVEAR, MARCELO T. DE",
@@ -638,7 +668,12 @@
         "Charcas",
         "Marcelo T",
         "Charcas"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Alvear",
+        "summary": "La avenida Alvear es una arteria vial de la ciudad de Buenos Aires, Argentina. Se localiza en los barrios porteños de Recoleta y Retiro.\nLa Legislatura porteña aprobó el proyecto para declararla Área de Protección Histórica. Un estudio de la cadena estadounidense de televisión NBC la ubicaba entre las cinco principales del mundo por la relación calidad, glamour y precio en sus negocios.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Alvear"
+      }
     },
     {
       "current_name": "AMALIA",
@@ -966,7 +1001,12 @@
           "name": "WILSON",
           "description": "La denominación Wilson abarcaba el tramo de Antártida Argentina comprendido entre las actuales Doctor José María Ramos Mejía y Presidente Ramón S. Castillo."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Antártida Argentina",
+        "summary": "La avenida Antártida Argentina es una de las arterias del barrio de Retiro, en la Ciudad de Buenos Aires. Por allí suelen pasar líneas de colectivos y micros de larga distancia. Nace en la Avenida Cecilia Grierson (que es la continuación de Avenida Córdoba), y termina en la intersección con la avenida Presidente Ramón S. Castillo. Su nombre rinde homenaje al Sector Antártico Argentino.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Ant%C3%A1rtida_Argentina"
+      }
     },
     {
       "current_name": "APULÉ",
@@ -1107,7 +1147,12 @@
       "previous_names": [
         "Dorrego segunda",
         "Estados"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Arenales",
+        "summary": "Arenales es una arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina. En términos generales, es paralela por una cuadra a Avenida Santa Fe. Antes de la construcción del Alto Palermo Shopping, la calle era cortada en dos tramos por la Cervecería Palermo.\nEn 1990, con la llegada del centro comercial, se unieron ambos tramos mediante la construcción de un túnel; conformando así la primera calle techada de la Ciudad.\n​",
+        "url": "https://es.wikipedia.org/wiki/Calle_Arenales"
+      }
     },
     {
       "current_name": "ARENALES",
@@ -1118,7 +1163,12 @@
           "description": "Santa Cruz de la Sierra: ciudad de Bolivia, actualmente capital del departamento Santa Cruz (Anónimo, Manual de Buenos Aires 1823. Transcripción paleográfica del profesor Jorge Ochoa de Eguileor, Buenos Aires, MCBA, 1981).",
           "etymology": "de la Sierra: ciudad de Bolivia, actualmente capital del departamento Santa Cruz (Anónimo, Manual de Buenos Aires 1823."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Arenales",
+        "summary": "Arenales es una arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina. En términos generales, es paralela por una cuadra a Avenida Santa Fe. Antes de la construcción del Alto Palermo Shopping, la calle era cortada en dos tramos por la Cervecería Palermo.\nEn 1990, con la llegada del centro comercial, se unieron ambos tramos mediante la construcción de un túnel; conformando así la primera calle techada de la Ciudad.\n​",
+        "url": "https://es.wikipedia.org/wiki/Calle_Arenales"
+      }
     },
     {
       "current_name": "ARENGREEN",
@@ -1362,7 +1412,12 @@
             "profession": "mártir cristiana, hermana de Santa Cristina"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Arroyo",
+        "summary": "La calle Arroyo, es una arteria vial del barrio de Retiro de la ciudad de Buenos Aires en Argentina, originalmente llamada Calle de las Tunas, desde 1882 fue la Calle Pueyrredon y hacia 1902 pasa a llamarse así a la actual Avenida y una ordenanza municipal bautizó la calle con una parte del apellido de Manuel Andrés Arroyo y Pinedo, Presidente del Congreso de 1825 y dueño de la quinta emplazada en Carlos Pellegrini y Arroyo. En la esquina de Arroyo y Avenida Alvear se puede ver la placa de homen...",
+        "url": "https://es.wikipedia.org/wiki/Calle_Arroyo"
+      }
     },
     {
       "current_name": "ARTES, DE LAS",
@@ -1739,7 +1794,12 @@
       "current_name": "BAHÍA",
       "description": "Ordenanza N° 5.296/1933, B.M. N° 3.519. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 5.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Leandro N. Alem (Bahía Blanca)",
+        "summary": "La avenida Leandro Nicéforo Alem es una de las arterias más pintorescas de la ciudad argentina de Bahía Blanca, en la provincia de Buenos Aires.\nEn ella se yerguen amplias mansiones que revelan la próspera historia de la clase alta bahiense. Su largo trayecto parte desde el Teatro Municipal, la Universidad Nacional del Sur, pasando por el ingreso al mayor parque de la ciudad, el Parque de Mayo, hasta desembocar en el Camino Parque Sesquicentenario.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Leandro_N._Alem_(Bah%C3%ADa_Blanca)"
+      }
     },
     {
       "current_name": "BAHÍA BLANCA",
@@ -1754,7 +1814,12 @@
           "name": "PARÍS",
           "description": "La denominación París abarcaba el tramo de Bahía Blanca comprendido entre las actuales Francisco Beiró y General Paz."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Leandro N. Alem (Bahía Blanca)",
+        "summary": "La avenida Leandro Nicéforo Alem es una de las arterias más pintorescas de la ciudad argentina de Bahía Blanca, en la provincia de Buenos Aires.\nEn ella se yerguen amplias mansiones que revelan la próspera historia de la clase alta bahiense. Su largo trayecto parte desde el Teatro Municipal, la Universidad Nacional del Sur, pasando por el ingreso al mayor parque de la ciudad, el Parque de Mayo, hasta desembocar en el Camino Parque Sesquicentenario.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Leandro_N._Alem_(Bah%C3%ADa_Blanca)"
+      }
     },
     {
       "current_name": "BAIGORRI",
@@ -1831,7 +1896,12 @@
         "Camino a las Lomas de San Isidro",
         "San Isidro",
         "Del Tejar"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Ricardo Balbín",
+        "summary": "La avenida Dr. Ricardo Balbín es una de las principales arterias viales del barrio de Saavedra en la ciudad de Buenos Aires, Argentina.\nSu nombre homenajea a Ricardo Balbín quien fue un político y abogado argentino, siendo una de las figuras más notables del partido político Unión Cívica Radical (UCR).\nHasta el año 1991 la Avenida Ricardo Balbín se llamaba Avenida del Tejar en conmemoración de la batalla librada en territorio boliviano el 19 de febrero de 1815 en la cual se dice que el General N...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Ricardo_Balb%C3%ADn"
+      }
     },
     {
       "current_name": "BALCARCE",
@@ -1873,7 +1943,12 @@
           "description": "Santo Cristo: según Lafuente Machain, este nombre conmemoraba a una de las pocas tradiciones de Buenos Aires, ya que su origen se debe a que durante una gran tormenta y creciente del río, alguien propuso sacar en procesión la imagen del Santo Cristo de la Catedral, obra del escultor portugués Manuel de Coyto. Al hacérselo, la tormenta cesó y en agradecimiento se dio su nombre a esta calle (Lafuente Machain, Ricardo de, El Barrio de Santo Domingo, Cuadernos de Buenos Aires, X, 2da. ed., Buenos Aires, MCBA, 1968).",
           "etymology": "según Lafuente Machain, este nombre conmemoraba a una de las pocas tradiciones de Buenos Aires, ya que su origen se debe a que durante una gran tormenta y creciente del río, alguien propuso sacar en procesión la imagen del Santo Cristo de la Catedral, obra del escultor portugués Manuel de Coyto."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Balcarce",
+        "summary": "La calle Balcarce es una arteria vial del casco histórico de la Ciudad de Buenos Aires, Argentina.\nDebe su nombre a Antonio González Balcarce,  (Buenos Aires, 24 de junio de 1774 – 5 de agosto de 1819) que fue un político y militar argentino, destacado en la Guerra de Independencia de la Argentina y que ejerció brevemente como Director Supremo de las Provincias Unidas del Río de la Plata.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Balcarce"
+      }
     },
     {
       "current_name": "BALCARCE, FLORENCIO",
@@ -1882,7 +1957,12 @@
       "previous_names": [
         "Videla Dorna",
         "África"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Balcarce",
+        "summary": "La calle Balcarce es una arteria vial del casco histórico de la Ciudad de Buenos Aires, Argentina.\nDebe su nombre a Antonio González Balcarce,  (Buenos Aires, 24 de junio de 1774 – 5 de agosto de 1819) que fue un político y militar argentino, destacado en la Guerra de Independencia de la Argentina y que ejerció brevemente como Director Supremo de las Provincias Unidas del Río de la Plata.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Balcarce"
+      }
     },
     {
       "current_name": "BALDRICH, CORONEL JUAN AMADEO DE",
@@ -2197,7 +2277,12 @@
         "Gainza",
         "Del Progreso",
         "Tres Cruces"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Francisco Beiró",
+        "summary": "La avenida Francisco Beiró es una concurrida arteria vial del noroeste la Ciudad de Buenos Aires, Argentina. Es la avenida más representativa del barrio de Villa Devoto.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Francisco_Beir%C3%B3"
+      }
     },
     {
       "current_name": "BELFAST",
@@ -2236,7 +2321,12 @@
         {
           "name": "SANTO DOMINGO"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Belgrano (Buenos Aires)",
+        "summary": "La avenida Belgrano es una importante arteria vial de la Ciudad de Buenos Aires, que tiene sentido de circulación oeste-este, al contrario que sus paralelas, avenida de Mayo, Independencia y Rivadavia; atravesando los barrios de Monserrat, Balvanera y Almagro.\nToma el nombre de Manuel Belgrano, patriota argentino del siglo XIX, creador de la bandera nacional. Sus nombres anteriores fueron: Santo Domingo (desde 1774), Pirán (1807), Belgrano (1822), Belgrano; al este y Monserrat al oeste (1845), y...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Belgrano_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "BELL VILLE",
@@ -2463,7 +2553,12 @@
           "description": "La denominación Suipacha abarcaba el tramo de Besares comprendido entre la actual Pinto y las vías del Ferrocarril General Bartolomé Mitre. Suipacha: batalla librada el 7 de noviembre de 1810 en el Alto Perú, hoy Bolivia, entre las fuerzas patriotas de Antonio González Balcarce y las realistas del general José de Córdoba y Rojas.",
           "etymology": "batalla librada el 7 de noviembre de 1810 en el Alto Perú, hoy Bolivia, entre las fuerzas patriotas de Antonio González Balcarce y las realistas del general José de Córdoba y Rojas."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Besares",
+        "summary": "La Calle Besares, más conocida como Calle de los Besares, es una pequeña irrupción vial que bordea el Parque Saavedra por su lado Oeste en la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Besares"
+      }
     },
     {
       "current_name": "BETBEDER, ALMIRANTE ONOFRE",
@@ -2558,7 +2653,12 @@
         "Estelma",
         "Stegman",
         "Merlo"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Buenos Aires (Bilbao)",
+        "summary": "Para la calle homónima de Rosario, Santa Fe, Argentina, véase Calle Buenos Aires\n\nLa calle Buenos Aires es una calle ubicada en el centro de la villa de Bilbao. Se inicia en la plaza circular y finaliza en la plaza Venezuela, frente al puente del Ayuntamiento. Toda ella se ve transitada por el Tranvía de Bilbao.​",
+        "url": "https://es.wikipedia.org/wiki/Calle_Buenos_Aires_(Bilbao)"
+      }
     },
     {
       "current_name": "BILLINGHURST",
@@ -2607,7 +2707,12 @@
     {
       "current_name": "BOEDO",
       "description": "Disposición del Presidente de la Corporación Municipal, Torcuato de Alvear, del 6/3/1882 (AHM, Legajo 3, 1882. Obras Públicas). Sin nombre anterior.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Boedo",
+        "summary": "La avenida Boedo es una arteria vial del sur de la Ciudad de Buenos Aires, Argentina, cuyo nombre evoca a Mariano Boedo, diputado por Salta ante el Congreso de Tucumán y firmante del Acta de la Independencia Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Boedo"
+      }
     },
     {
       "current_name": "BOERI, JUAN A.",
@@ -2759,7 +2864,12 @@
         {
           "name": "VICTORIA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Bolívar",
+        "summary": "La calle Bolívar es una arteria vial, con prioridad peatonal, que recorre el centro histórico de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Bol%C3%ADvar"
+      }
     },
     {
       "current_name": "BOMBAY",
@@ -2871,7 +2981,12 @@
         {
           "name": "CIRCUNVALACIÓN ESTE"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Boyacá (Buenos Aires)",
+        "summary": "La avenida Boyacá es una arteria vial de la Ciudad de Buenos Aires, Argentina.\nRecibe este nombre en recuerdo de la Batalla de Boyacá, con la cual se selló la independencia de la actual Colombia (entonces Nueva Granada).​\nEs una avenida de 2 km de longitud, de gran movimiento comercial, que atraviesa los barrios de Flores y Villa General Mitre.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Boyac%C3%A1_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "BRAGADO",
@@ -2971,12 +3086,22 @@
         "Camino al Muelle",
         "San Luis",
         "General Brown"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Almirante Brown",
+        "summary": "La avenida Almirante Brown es la arteria vial principal del barrio de La Boca, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Almirante_Brown"
+      }
     },
     {
       "current_name": "BROWN, FRANK",
       "description": "Decreto N° 4.515/1945, B.M. N° 7.528. Luis Scavo. Plano J. Vital Dupont, 1941.",
-      "legal_basis": "Decreto N° 4."
+      "legal_basis": "Decreto N° 4.",
+      "wikipedia": {
+        "title": "Avenida Almirante Brown",
+        "summary": "La avenida Almirante Brown es la arteria vial principal del barrio de La Boca, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Almirante_Brown"
+      }
     },
     {
       "current_name": "BRUIX",
@@ -3018,7 +3143,12 @@
       "current_name": "BUEN ORDEN, DEL",
       "description": "Ordenanza del 28/12/1923. Sin nombre anterior.",
       "legal_basis": "Ordenanza del 28/12/1923.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Leandro N. Alem (Buenos Aires)",
+        "summary": "La avenida Leandro N. Alem es una arteria vial de la zona denominada El Bajo de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Leandro_N._Alem_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "BUERAS",
@@ -3094,7 +3224,12 @@
       "current_name": "BUTTELER",
       "description": "Ordenanza del 2/6/1911. Sin nombre anterior.",
       "legal_basis": "Ordenanza del 2/6/1911.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Calle Butteler",
+        "summary": "La Calle Azucena Butteler, también conocido como Pasaje Butteler, es una arteria vial dentro del barrio Parque Chacabuco en la Ciudad de Buenos Aires, Argentina.\nEsta singular calle lleva su nombre en homenaje a Azucena Butteler, quién donó el terreno donde está este pasaje para que se construyan viviendas sociales.​",
+        "url": "https://es.wikipedia.org/wiki/Calle_Butteler"
+      }
     },
     {
       "current_name": "BUTTY, INGENIERO ENRIQUE",
@@ -3222,7 +3357,12 @@
           "name": "SANTA FE",
           "description": "La denominación Santa Fe abarcaba el tramo de Cabildo comprendido entre las actuales Dorrego y La Pampa."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Cabildo",
+        "summary": "La Avenida Cabildo es una importante avenida de la ciudad de Buenos Aires. Es considerada como uno de los principales centros de compra y paseo de la ciudad, y especialmente del barrio de Belgrano. Nace en el Viaducto Carranza como continuación de la Avenida Santa Fe, y finaliza en Puente Saavedra continuando hacia el norte como Avenida Maipú.\nSu nombre homenajea al cabildo abierto del 25 de mayo de 1810, en el cual se le quitó el poder al virrey y se creó la primera junta de gobierno.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Cabildo"
+      }
     },
     {
       "current_name": "CABOT",
@@ -3466,7 +3606,12 @@
         {
           "name": "TUNAS, DE LAS"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Callao",
+        "summary": "La avenida Callao es una importante arteria del centro de la Ciudad de Buenos Aires, Argentina, que fue declarada Área de Protección Histórica (APH) por el Gobierno de la Ciudad de Buenos Aires en septiembre de 2009, durante el primer mandato de Mauricio Macri.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Callao"
+      }
     },
     {
       "current_name": "CALOU, JUAN P.",
@@ -3606,7 +3751,12 @@
     {
       "current_name": "CAMPOS, GASPAR",
       "description": "Ordenanza N° 10.039/1938, B.M. N° 5.366. Ansola. Caso similar al de Boedo. Véase AGACES.",
-      "legal_basis": "Ordenanza N° 10."
+      "legal_basis": "Ordenanza N° 10.",
+      "wikipedia": {
+        "title": "Avenida Luis María Campos",
+        "summary": "La avenida Luis María Campos es una de las principales avenidas del barrio de Palermo de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Luis_Mar%C3%ADa_Campos"
+      }
     },
     {
       "current_name": "CAMPOS, LUIS MARÍA",
@@ -3615,7 +3765,12 @@
       "previous_names": [
         "Camino Inferior o Camino de las Cañitas",
         "Gutenberg"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Luis María Campos",
+        "summary": "La avenida Luis María Campos es una de las principales avenidas del barrio de Palermo de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Luis_Mar%C3%ADa_Campos"
+      }
     },
     {
       "current_name": "CANADÁ",
@@ -3676,12 +3831,22 @@
     {
       "current_name": "CANTILO",
       "description": "Ordenanza del 28/10/1904. Santos Vega. Caso similar al de Pelayo. Véase ACHEGA.",
-      "legal_basis": "Ordenanza del 28/10/1904."
+      "legal_basis": "Ordenanza del 28/10/1904.",
+      "wikipedia": {
+        "title": "Avenida Intendente Cantilo",
+        "summary": "La avenida Intendente Cantilo es una autopista en la ciudad de Buenos Aires, Argentina. La totalidad de su trayecto es en sentido norte, en forma paralela a la Avenida Lugones que recorre el mismo trayecto en sentido sur.\nLa autopista nace como continuación de la Autopista Arturo Illia y finaliza en la Avenida General Paz.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Intendente_Cantilo"
+      }
     },
     {
       "current_name": "CANTILO, INTENDENTE",
       "description": "Decreto N° 3.201/1956, B.M. N° 10.328. General Zapiola. Ordenanza del 28/10/1904.",
-      "legal_basis": "Decreto N° 3."
+      "legal_basis": "Decreto N° 3.",
+      "wikipedia": {
+        "title": "Avenida Intendente Cantilo",
+        "summary": "La avenida Intendente Cantilo es una autopista en la ciudad de Buenos Aires, Argentina. La totalidad de su trayecto es en sentido norte, en forma paralela a la Avenida Lugones que recorre el mismo trayecto en sentido sur.\nLa autopista nace como continuación de la Autopista Arturo Illia y finaliza en la Avenida General Paz.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Intendente_Cantilo"
+      }
     },
     {
       "current_name": "CANTILO, JOSÉ LUIS",
@@ -3690,7 +3855,12 @@
       "previous_names": [
         "Valparaíso",
         "Lácar"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Intendente Cantilo",
+        "summary": "La avenida Intendente Cantilo es una autopista en la ciudad de Buenos Aires, Argentina. La totalidad de su trayecto es en sentido norte, en forma paralela a la Avenida Lugones que recorre el mismo trayecto en sentido sur.\nLa autopista nace como continuación de la Autopista Arturo Illia y finaliza en la Avenida General Paz.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Intendente_Cantilo"
+      }
     },
     {
       "current_name": "CANÉ, MIGUEL",
@@ -4017,7 +4187,12 @@
           "description": "Zanjón de las Quintas: según Diego A. del Pino, “el nombre de Zanjón tenía valor explicativo, por ser un ancho camino algo bajo, que brillaba como un tajo entre el verde color de los cultivos” de las quintas que los rodeaban (Pino, Diego A. del, Ayer y hoy de Boedo, Buenos Aires, Ediciones del Docente S.A., 1986).",
           "etymology": "según Diego A."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Caseros",
+        "summary": "La avenida Caseros es una importante arteria vial del sur de la ciudad de Buenos Aires, Argentina.\nLa recorren más de 20 líneas de colectivos, especialmente en los alrededores de la Estación Constitución.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Caseros"
+      }
     },
     {
       "current_name": "CASTAÑARES",
@@ -4973,7 +5148,12 @@
           "name": "JUJUY",
           "description": "Antigua prolongación de la actual Jujuy."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Colonia",
+        "summary": "Calle Colonia puede referirse a:\n\nCalle Colonia (Buenos Aires), arteria vial de Buenos Aires, Argentina.\nCalle Colonia (Montevideo), arteria vial de Montevideo, Uruguay.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Colonia"
+      }
     },
     {
       "current_name": "COLONIAS, LAS",
@@ -5024,7 +5204,12 @@
     {
       "current_name": "COLÓN, PASEO",
       "description": "Ordenanza del 25/8/1857. Balcarce. Caso similar al de Boedo. Véase AGACES. La denominación Balcarce abarcaba el tramo de Paseo Colón comprendido entre las actuales Independencia y Doctor José Modesto Giuffra.",
-      "legal_basis": "Ordenanza del 25/8/1857."
+      "legal_basis": "Ordenanza del 25/8/1857.",
+      "wikipedia": {
+        "title": "Avenida Paseo Colón",
+        "summary": "La avenida Paseo Colón es una arteria vial del centro histórico de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Paseo_Col%C3%B3n"
+      }
     },
     {
       "current_name": "COMERCIO, DEL",
@@ -5165,7 +5350,12 @@
         {
           "name": "CIRCUNVALACIÓN"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Congreso",
+        "summary": "La avenida Congreso de Tucumán  es una de las principales avenidas de cinco barrios de la Ciudad de Buenos Aires, Argentina.\nSu nombre homenajea al Congreso de Tucumán celebrado el 9 de julio de 1816.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Congreso"
+      }
     },
     {
       "current_name": "CONI, DOCTOR EMILIO R.",
@@ -5198,7 +5388,12 @@
         "Camino a San Fernando",
         "Camino a San Martín",
         "Libertad o de la Libertad"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida de los Constituyentes",
+        "summary": "La avenida de los Constituyentes es una avenida  de la ciudad de Buenos Aires, y de los municipios de General San Martín y Vicente López, en la zona norte del Gran Buenos Aires, Argentina. A fines del siglo XIX fue el límite del desaparecido partido de Belgrano.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_de_los_Constituyentes"
+      }
     },
     {
       "current_name": "CONTARDI, PADRE ENRIQUE",
@@ -5429,7 +5624,12 @@
           "description": "La denominación Triunvirato abarcaba el tramo de Corrientes comprendido entre las actuales Ángel Gallardo y Federico Lacroze. Antiguas prolongaciones de la actual Triunvirato. Triunvirato: Poder Ejecutivo que el 23 de septiembre de 1811 sustituye a la Junta Grande y que gobierna el país hasta el 26 de enero de 1814, cuando sus miembros cesan en el mando al crearse el Directorio.",
           "etymology": "Poder Ejecutivo que el 23 de septiembre de 1811 sustituye a la Junta Grande y que gobierna el país hasta el 26 de enero de 1814, cuando sus miembros cesan en el mando al crearse el Directorio."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Corrientes",
+        "summary": "La avenida Corrientes es una de las principales vías públicas de la Ciudad de Buenos Aires, capital y ciudad más habitada de Argentina. Conocida tras la fundación como \"sendero del Sol\",​ la avenida Corrientes cuenta con una rica historia como eje cultural y centro de la vida nocturna de la ciudad, y está estrechamente ligada a la identidad porteña y a su música, especialmente al tango.\nLa avenida Corrientes ha contado a lo largo de su historia con una gran cantidad de bares y teatros famosos, c...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Corrientes"
+      }
     },
     {
       "current_name": "CORRO, CANÓNIGO MIGUEL CALIXTO DEL",
@@ -6017,7 +6217,12 @@
     {
       "current_name": "DE VICENTE, SIMONE",
       "description": "Ordenanza N° 15.785/1959, B.M. N° 11.280. Sin nombre nombre anterior.",
-      "legal_basis": "Ordenanza N° 15."
+      "legal_basis": "Ordenanza N° 15.",
+      "wikipedia": {
+        "title": "Avenida del Libertador",
+        "summary": "La Avenida del Libertador es una importante avenida de la ciudad de Buenos Aires y de la zona norte del Gran Buenos Aires, en Argentina.\nAsimismo, funciona como eje vertebral del tránsito sur-norte en los partidos de Vicente López y San Isidro, junto a la Avenida Maipú y la Autopista Panamericana.\nNace en el barrio porteño de Retiro y finaliza luego de 35 kilómetros de recorrido en el canal San Fernando, límite entre los partidos de San Fernando y Tigre. Debe su nombre al General José de San Mar...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_del_Libertador"
+      }
     },
     {
       "current_name": "DEALESSI, PIERINA",
@@ -6085,7 +6290,12 @@
         {
           "name": "SANTO DOMINGO"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Defensa",
+        "summary": "La calle Defensa es una arteria vial que recorre el centro histórico de la ciudad de Buenos Aires, Argentina. Es muy conocida por haberse transformado en un importante centro turístico, debido a su importancia histórica y cultural para la ciudad. Los fines de semana, es peatonal en casi toda su extensión y en sus cuadras se distribuyen los puestos de la Feria de San Telmo.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Defensa"
+      }
     },
     {
       "current_name": "DEHEZA",
@@ -6150,7 +6360,12 @@
       "previous_names": [
         "Montevideo segunda",
         "La Paz"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Elvira Rawson de Dellepiane",
+        "summary": "El Bulevar Elvira Rawson de Dellepiane es una de las cinco avenidas en dirección este-oeste que conectan Puerto Madero con el centro de la ciudad de Buenos Aires. Es una prolongación de la calle Brasil, que tomó su nombre actual por una Ordenanza de la Ciudad de Buenos Aires, sancionada en 1995.\nEn la actualidad, es uno de los bordes del “nuevo” Puerto Madero, marcando el límite de la zona renovada por inversiones públicas e inmobiliarias para transformar el antiguo puerto abandonado en un barri...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Elvira_Rawson_de_Dellepiane"
+      }
     },
     {
       "current_name": "DELLEPIANE, TENIENTE GENERAL LUIS J.",
@@ -6160,7 +6375,12 @@
         "Camino de la Matanza",
         "Derqui",
         "Camino de Acceso al Aeropuerto Ministro Pistarini"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Elvira Rawson de Dellepiane",
+        "summary": "El Bulevar Elvira Rawson de Dellepiane es una de las cinco avenidas en dirección este-oeste que conectan Puerto Madero con el centro de la ciudad de Buenos Aires. Es una prolongación de la calle Brasil, que tomó su nombre actual por una Ordenanza de la Ciudad de Buenos Aires, sancionada en 1995.\nEn la actualidad, es uno de los bordes del “nuevo” Puerto Madero, marcando el límite de la zona renovada por inversiones públicas e inmobiliarias para transformar el antiguo puerto abandonado en un barri...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Elvira_Rawson_de_Dellepiane"
+      }
     },
     {
       "current_name": "DELTA, EL",
@@ -6299,7 +6519,12 @@
           "name": "SAN JUAN",
           "description": "Antigua prolongación de la actual San Juan. La denominación San Juan abarcaba el tramo de Directorio comprendido entre las actuales avenida La Plata y, aproximadamente, Emilio Mitre."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Directorio",
+        "summary": "La Avenida Directorio es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Directorio"
+      }
     },
     {
       "current_name": "DISCÉPOLO, ENRIQUE SANTOS",
@@ -6418,7 +6643,12 @@
         {
           "name": "CHACARITA, CAMINO DE"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Dorrego",
+        "summary": "La avenida Dorrego es una arteria vial de la ciudad de Buenos Aires, Argentina. Las calles perpendiculares cambian de nombre al cruzarla, excepto algunas avenidas importantes, como Warnes, Corrientes, Córdoba, Luis María Campos, del Libertador, Figueroa Alcorta y Lugones/Cantilo.\nSu nombre rinde homenaje a Manuel Dorrego, gobernador de Buenos Aires (1820-1820) y (1827-1828), y militar durante la Guerras de Independencia.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Dorrego"
+      }
     },
     {
       "current_name": "DRAGO, LUIS MARÍA",
@@ -6429,7 +6659,12 @@
       "current_name": "DRAGONES",
       "description": "Ordenanza del 27/11/1893. Sin nombre anterior.",
       "legal_basis": "Ordenanza del 27/11/1893.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Calle Dragones",
+        "summary": "La calle Dragones es una arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina. A excepción de su primer cuadra donde es doble mano, el resto de su recorrido se da en mano y contramano, más respectivamente en sentido nordeste-sudeste. En cierta parte de su recorrido rodea la Agencia Nacional de Rehabilitación y Discapacidad, el Centro de Rehabilitación del Lisiado y la sede de la UNSAM en el barrio de Belgrano. Termina en la Avenida Monroe continuando en dirección contraria como Ernesto ...",
+        "url": "https://es.wikipedia.org/wiki/Calle_Dragones"
+      }
     },
     {
       "current_name": "DRESCO, ARTURO ANTONIO",
@@ -6531,13 +6766,23 @@
         {
           "name": "GAONA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Díaz Vélez",
+        "summary": "La avenida Díaz Vélez es una importante arteria vial de la Ciudad de Buenos Aires, Argentina cuyo nombre tiene su origen en una ordenaza municipal del 27 de noviembre de 1893.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_D%C3%ADaz_V%C3%A9lez"
+      }
     },
     {
       "current_name": "DÍAZ, ANA",
       "description": "Ordenanza N° 35.969/1980, B.M. N° 16.348. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 35.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Díaz Vélez",
+        "summary": "La avenida Díaz Vélez es una importante arteria vial de la Ciudad de Buenos Aires, Argentina cuyo nombre tiene su origen en una ordenaza municipal del 27 de noviembre de 1893.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_D%C3%ADaz_V%C3%A9lez"
+      }
     },
     {
       "current_name": "DÍAZ, AVELINO",
@@ -6546,12 +6791,22 @@
       "previous_names": [
         "Salcedo",
         "Portal"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Díaz Vélez",
+        "summary": "La avenida Díaz Vélez es una importante arteria vial de la Ciudad de Buenos Aires, Argentina cuyo nombre tiene su origen en una ordenaza municipal del 27 de noviembre de 1893.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_D%C3%ADaz_V%C3%A9lez"
+      }
     },
     {
       "current_name": "DÍAZ, CORONEL",
       "description": "Ordenanza del 28/6/1894. Bollini. Doble Índice de la Nueva y Antigua Nomenclatura, 1896. Coronel. Plano Municipal, 1882.",
-      "legal_basis": "Ordenanza del 28/6/1894."
+      "legal_basis": "Ordenanza del 28/6/1894.",
+      "wikipedia": {
+        "title": "Avenida Díaz Vélez",
+        "summary": "La avenida Díaz Vélez es una importante arteria vial de la Ciudad de Buenos Aires, Argentina cuyo nombre tiene su origen en una ordenaza municipal del 27 de noviembre de 1893.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_D%C3%ADaz_V%C3%A9lez"
+      }
     },
     {
       "current_name": "DÍAZ, GENERAL CÉSAR",
@@ -6560,7 +6815,12 @@
       "previous_names": [
         "Capitán Rojas",
         "San Julián"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Díaz Vélez",
+        "summary": "La avenida Díaz Vélez es una importante arteria vial de la Ciudad de Buenos Aires, Argentina cuyo nombre tiene su origen en una ordenaza municipal del 27 de noviembre de 1893.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_D%C3%ADaz_V%C3%A9lez"
+      }
     },
     {
       "current_name": "ECHAGÜE, INGENIERO CARLOS",
@@ -6609,7 +6869,12 @@
           "name": "RIVADAVIA",
           "description": "La denominación Rivadavia abarcaba el tramo de Echeverría comprendido entre las actuales Presidente Figueroa Alcorta y Washington."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Echeverría",
+        "summary": "La calle Echeverría es una arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina. Debe su nombre al escritor argentino Esteban Echeverría, quien fuera autor de El Matadero y La Cautiva.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Echeverr%C3%ADa"
+      }
     },
     {
       "current_name": "ECONOMÍA, DE LA",
@@ -6647,7 +6912,12 @@
         "Liniers segunda",
         "Salí",
         "Río Salí"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Einstein",
+        "summary": "Avenida Einstein puede referirse a:\n\nAvenida Einstein de Rancagua, Chile.\nAvenida Einstein de San Salvador, El Salvador.\nAvenida Einstein de Santiago de Chile.\nAvenida Einstein, cercana a Garín, Provincia de Buenos Aires, Argentina.\nBarrio Avenida Einstein, población de la comuna de Recoleta en Santiago de Chile.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Einstein"
+      }
     },
     {
       "current_name": "EL SALVADOR",
@@ -6723,7 +6993,12 @@
         {
           "name": "TUNAS, DE LAS"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Entre Ríos",
+        "summary": "La avenida Entre Ríos es una arteria vial de la Ciudad de Buenos Aires, Argentina. Toma el nombre de la provincia argentina de Entre Ríos. Su extensión es de 22 cuadras, en dirección norte-sur.\nEn su nacimiento se ubica la estación Congreso de la Línea A del Subte, y la intersección con la Avenida San Juan, cruza la línea Línea E. Existe un proyecto para que parte de la futura Línea F corra bajo parte de la avenida.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Entre_R%C3%ADos"
+      }
     },
     {
       "current_name": "EPECUÉN",
@@ -6778,7 +7053,12 @@
       "previous_names": [
         "Lourdes",
         "Deseado"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Remedios de Escalada de San Martín",
+        "summary": "La Avenida Remedios de Escalada de San Martín es una avenida urbana de 4,6 km ubicada en el partido de Lanús. Es una de las principales arterias viales del municipio, ya que permite conectar con la Ciudad Autónoma de Buenos Aires por medio del Puente Alsina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Remedios_de_Escalada_de_San_Mart%C3%ADn"
+      }
     },
     {
       "current_name": "ESCALADA, COMANDANTE CELEDONIO",
@@ -7344,7 +7624,12 @@
             "profession": "integrante de la primera Sociedad de Beneficencia en 1823"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Francisco Fernández de la Cruz",
+        "summary": "La avenida General Francisco Fernández de la Cruz es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina. En su trayecto se encuentran predios deportivos, recreativos y el único centro comercial (shopping) del sur porteño. El Premetro transita un tramo de esta avenida.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Francisco_Fern%C3%A1ndez_de_la_Cruz"
+      }
     },
     {
       "current_name": "FERNÁNDEZ BLANCO",
@@ -7370,7 +7655,12 @@
       "previous_names": [
         "Arena segunda",
         "Cruz"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Francisco Fernández de la Cruz",
+        "summary": "La avenida General Francisco Fernández de la Cruz es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina. En su trayecto se encuentran predios deportivos, recreativos y el único centro comercial (shopping) del sur porteño. El Premetro transita un tramo de esta avenida.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Francisco_Fern%C3%A1ndez_de_la_Cruz"
+      }
     },
     {
       "current_name": "FERNÁNDEZ ESPIRO, DIEGO",
@@ -7388,12 +7678,22 @@
       "previous_names": [
         "Loma segunda",
         "Monte"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Francisco Fernández de la Cruz",
+        "summary": "La avenida General Francisco Fernández de la Cruz es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina. En su trayecto se encuentran predios deportivos, recreativos y el único centro comercial (shopping) del sur porteño. El Premetro transita un tramo de esta avenida.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Francisco_Fern%C3%A1ndez_de_la_Cruz"
+      }
     },
     {
       "current_name": "FERNÁNDEZ, MACEDONIO",
       "description": "Decreto N° 2.008/1956, B.M. N° 10.314. 17 de Octubre. Plano Municipal, 1952.",
-      "legal_basis": "Decreto N° 2."
+      "legal_basis": "Decreto N° 2.",
+      "wikipedia": {
+        "title": "Avenida General Francisco Fernández de la Cruz",
+        "summary": "La avenida General Francisco Fernández de la Cruz es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina. En su trayecto se encuentran predios deportivos, recreativos y el único centro comercial (shopping) del sur porteño. El Premetro transita un tramo de esta avenida.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Francisco_Fern%C3%A1ndez_de_la_Cruz"
+      }
     },
     {
       "current_name": "FERRARI",
@@ -7457,7 +7757,12 @@
       "previous_names": [
         "Maciel",
         "Centenario"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Figueroa Alcorta",
+        "summary": "La avenida Presidente Figueroa Alcorta es una importante arteria de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Figueroa_Alcorta"
+      }
     },
     {
       "current_name": "FIGUEROA, CORONEL APOLINARIO",
@@ -7466,7 +7771,12 @@
       "previous_names": [
         "Canning",
         "Figueroa"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Figueroa Alcorta",
+        "summary": "La avenida Presidente Figueroa Alcorta es una importante arteria de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Figueroa_Alcorta"
+      }
     },
     {
       "current_name": "FILIBERTO",
@@ -7605,7 +7915,12 @@
             "profession": "teniente de navío"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Florida",
+        "summary": "La calle Florida es una peatonal de la Ciudad de Buenos Aires que comienza en la Avenida Rivadavia y termina en la Plaza General San Martín. Es reconocida como la calle comercial más importante de la Argentina, continuando al sur de la Avenida Rivadavia bajo el nombre de calle Perú.\nEn 1913 se convirtió en la primera calle peatonal de la ciudad en algunos tramos, al prohibirse el tránsito entre las 11 y las 21 horas​ y el 1 de julio de 1971 se la transformó en peatonal en toda su extensión, salv...",
+        "url": "https://es.wikipedia.org/wiki/Calle_Florida"
+      }
     },
     {
       "current_name": "FOGÓN, EL",
@@ -7640,7 +7955,12 @@
       "current_name": "FOREST",
       "description": "Ordenanza del 27/11/1893. Sin nombre anterior.",
       "legal_basis": "Ordenanza del 27/11/1893.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Forest",
+        "summary": "La Avenida Forest es una avenida de la Ciudad de Buenos Aires, Argentina, que une los barrios de Belgrano y Chacarita.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Forest"
+      }
     },
     {
       "current_name": "FORMOSA",
@@ -7865,7 +8185,12 @@
     {
       "current_name": "GAITO, CONSTANTINO",
       "description": "Decreto N° 2.008/1956, B.M. N° 10.314. A. Orzábal Udabé. Plano Municipal, 1952.",
-      "legal_basis": "Decreto N° 2."
+      "legal_basis": "Decreto N° 2.",
+      "wikipedia": {
+        "title": "Calle Constantino Gaito",
+        "summary": "La calle Constantino Gaito es una arteria secundaria del sector oeste de la ciudad de Córdoba (Argentina). Cruza principalmente el barrio Los Naranjos. Su nombre se debe al compositor argentino Constantino Gaito​\nConstantino Gaito nació en Buenos Aires en 1878. Contribuyó a desarrollar la escuela nacional folklórica de su país y su música, a veces de procedencia indígena, sufrió el influjo del verismo italiano y del impresionismo francés. Estudió en el Conservatorio San Pietro a Majella, de Nápo...",
+        "url": "https://es.wikipedia.org/wiki/Calle_Constantino_Gaito"
+      }
     },
     {
       "current_name": "GAITÁN, LUIS",
@@ -7985,7 +8310,12 @@
           "name": "INDUSTRIA",
           "description": "La denominación Industria abarcaba el tramo de Galván comprendido entre las actuales Manuela Pedraza y Republiquetas."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Galván",
+        "summary": "La Calle Galván es una de las principales calles de los barrios de Saavedra y Villa Urquiza de la Ciudad de Buenos Aires, Argentina.\nLa Calle Galván es muchas veces conocida como \"Avenida Galván\", cosa que es incorrecta ya que no es lo suficientemente ancha para ser una avenida.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Galv%C3%A1n"
+      }
     },
     {
       "current_name": "GAMARRA",
@@ -8038,7 +8368,12 @@
         {
           "name": "CAMINO A MONTE CASTRO"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Gaona",
+        "summary": "La Avenida Gaona es una arteria vial de la ciudad de Buenos Aires, Argentina, que se extiende en dirección este-oeste. Comienza en el centro geográfico de la ciudad como continuación de la Avenida Ángel Gallardo, donde se ubica el monumento al Cid Campeador del barrio de Caballito. La avenida atraviesa seis barrios porteños y finaliza en su cruce con la Avenida Juan B. Justo, en el barrio de Vélez Sarsfield, cerca de la Plaza de la Bandera.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Gaona"
+      }
     },
     {
       "current_name": "GARANTÍAS, DE LAS",
@@ -8049,7 +8384,12 @@
     {
       "current_name": "GARAY, JUAN DE",
       "description": "Decreto N° 1.899/1944, B.M. N° 7.161. Garay. Ordenanza del 25/8/1857. Sola. Plano J. B. A. Bianchi, 1882. Esta denominación abarcaba el tramo comprendido entre las actuales Combate de los Pozos y avenida La Plata. En el Plano Municipal del año 1882, aparece ya con el nombre de Garay.",
-      "legal_basis": "Decreto N° 1."
+      "legal_basis": "Decreto N° 1.",
+      "wikipedia": {
+        "title": "Avenida Juan de Garay",
+        "summary": "La avenida Juan de Garay es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Juan_de_Garay"
+      }
     },
     {
       "current_name": "GARCÍA DE COSSIO",
@@ -8066,7 +8406,12 @@
           "description": "La denominación Feria abarcaba el tramo de García del Río comprendido entre la actual Melián y las vías del Ferrocarril General Bartolomé Mitre. Feria: no se han encontrado referencias sobre el significado de este nombre.",
           "etymology": "no se han encontrado referencias sobre el significado de este nombre."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida García del Río",
+        "summary": "La avenida García del Río es una avenida de la Ciudad de Buenos Aires, Argentina, del barrio de Saavedra.\nSu nombre homenajea a Juan García del Río (1794-1856), quien fuera un político y escritor colombiano.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Garc%C3%ADa_del_R%C3%ADo"
+      }
     },
     {
       "current_name": "GARCÍA GRANDE DE ZEQUEIRA, SEVERO",
@@ -8084,24 +8429,44 @@
     },
     {
       "current_name": "GARCÍA, AGENTE CEFERINO",
-      "description": "Resolución del 10/4/1931, B.M. N° 2.514-5. José L. Murature. Plano J. Vital Dupont, 1941."
+      "description": "Resolución del 10/4/1931, B.M. N° 2.514-5. José L. Murature. Plano J. Vital Dupont, 1941.",
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARCÍA, ALMIRANTE MANUEL J.",
       "description": "Ordenanza N° 13.537/1942, B.M. N° 6.639. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 13.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARCÍA, CORONEL PEDRO ANDRÉS",
       "description": "Ordenanza N° 35.154/1979, B.M. N° 16.096. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 35.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARCÍA, JUAN AGUSTÍN",
       "description": "Ordenanza N° 13.695/1942, B.M. N° 6.683. Médanos. Ordenanza del 27/11/1893.",
-      "legal_basis": "Ordenanza N° 13."
+      "legal_basis": "Ordenanza N° 13.",
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARCÍA, MANUEL",
@@ -8111,7 +8476,12 @@
         "Alberti",
         "Manuel García",
         "Mariscal Francisco Solano López"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARCÍA, MARTÍN",
@@ -8121,7 +8491,12 @@
         "Camino de Barracas",
         "San Luis",
         "Almirante Brown"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARCÍA, TEODORO",
@@ -8131,7 +8506,12 @@
         "Casto Munita",
         "Colegiales tercera",
         "Esteco"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Martín García",
+        "summary": "La avenida Martín García es una breve arteria vial que funciona como límite entre los barrios de La Boca, Barracas y San Telmo, en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Mart%C3%ADn_Garc%C3%ADa"
+      }
     },
     {
       "current_name": "GARDEL, CARLOS",
@@ -8151,7 +8531,12 @@
         {
           "name": "BELLA VISTA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Garmendia",
+        "summary": "La avenida Garmendia es una arteria vial de la Ciudad Autónoma de Buenos Aires que se caracteriza por separar el Cementerio de la Chacarita del barrio de La Paternal así como la avenida del Campo sobre cuya intersección nacen ambas avenidas. Garmendia se caracteriza por ser una avenida de doble mano. Originalmente en su última cuadra era de una sola mano hacia avenida del Campo pero debido a la elevación de las vías de la Línea San Martín se convirtió en doble mano en todo su recorrido. Su fin s...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Garmendia"
+      }
     },
     {
       "current_name": "GARRO",
@@ -8215,7 +8600,12 @@
           "description": "La denominación Lyon abarcaba el tramo de Gavilán comprendido entre las actuales Francisco Beiró y Griveo. Lyon: ciudad de Francia, capital de la región de Rhone-Alpes.",
           "etymology": "ciudad de Francia, capital de la región de Rhone-Alpes."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Gavilán",
+        "summary": "La calle Gavilán es una arteria vial de Buenos Aires que tiene aproximadamente 5 km y recorre la trama urbana en sentido sur-norte.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Gavil%C3%A1n"
+      }
     },
     {
       "current_name": "GAZETA DE BUENOS AYRES",
@@ -8551,7 +8941,12 @@
       "previous_names": [
         "Europa",
         "Río Cuarto"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Pedro Goyena",
+        "summary": "La avenida Pedro Goyena es una avenida residencial, de doble mano, cuya traza en dirección este-oeste recorre los barrios de Caballito y Flores, en la Ciudad de Buenos Aires, Argentina. En los últimos años se incrementó la propuesta de locales gastronómicos, hecho que ha transformado su fisonomía.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Pedro_Goyena"
+      }
     },
     {
       "current_name": "GRAMAJO GUTIÉRREZ, ALFREDO",
@@ -9143,12 +9538,22 @@
       "current_name": "GÜIRALDES, INTENDENTE",
       "description": "Decreto N° 3.201/1956, B.M. N° 10.328. Sin nombre anterior.",
       "legal_basis": "Decreto N° 3.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Intendente Güiraldes",
+        "summary": "La avenida Intendente Güiraldes es un tramo de la avenida Costanera Norte de la ciudad de Buenos Aires, que bordea el Balneario Parque Norte con un recorrido curvo. Entre las décadas de 1960 y 1990, además del balneario existía una exitosa seguidilla de restaurantes y parrillas conocidos como “Los Carritos de Costanera Norte”, que en su mayoría cerraron después del año 2000.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Intendente_G%C3%BCiraldes"
+      }
     },
     {
       "current_name": "GÜIRALDES, RICARDO",
       "description": "Ordenanza N° 8.523/1937, B.M. N° 4.867. San Marcos. Plano J. Vital Dupont, 1941.",
-      "legal_basis": "Ordenanza N° 8."
+      "legal_basis": "Ordenanza N° 8.",
+      "wikipedia": {
+        "title": "Avenida Intendente Güiraldes",
+        "summary": "La avenida Intendente Güiraldes es un tramo de la avenida Costanera Norte de la ciudad de Buenos Aires, que bordea el Balneario Parque Norte con un recorrido curvo. Entre las décadas de 1960 y 1990, además del balneario existía una exitosa seguidilla de restaurantes y parrillas conocidos como “Los Carritos de Costanera Norte”, que en su mayoría cerraron después del año 2000.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Intendente_G%C3%BCiraldes"
+      }
     },
     {
       "current_name": "HABANA",
@@ -9904,7 +10309,12 @@
       "current_name": "ITUZAINGÓ",
       "description": "Decreto del 9/5/1827. Sin nombre anterior.",
       "legal_basis": "Decreto del 9/5/1827.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Calle Ituzaingó",
+        "summary": "La Calle Ituzaingó (69) es una importante arteria del Partido de General San Martín, en la zona norte del Gran Buenos Aires. Vincula las localidades de San Andrés y Villa Maipú con la Ciudad Autónoma de Buenos Aires.\nEs desde el año 2008 una de las principales vías de ingreso y egreso al partido. Originalmente su traza se iniciaba en el número 1500, en la intersección con la calle Gral. M. N. Savio (38); su conexión con la Avenida General Paz fue inaugurada el 26 de junio de 2008.​",
+        "url": "https://es.wikipedia.org/wiki/Calle_Ituzaing%C3%B3"
+      }
     },
     {
       "current_name": "IÑIGO CARRERA, SEGUNDO",
@@ -10066,7 +10476,12 @@
       "current_name": "JUJUY",
       "description": "Ordenanza del 25/8/1857. Sin nombre anterior.",
       "legal_basis": "Ordenanza del 25/8/1857.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Jujuy",
+        "summary": "La avenida Jujuy es una arteria vial de la Ciudad de Buenos Aires, Argentina.\nDebe su nombre a la provincia de Jujuy, en el noroeste del país.[cita requerida]",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Jujuy"
+      }
     },
     {
       "current_name": "JUNCAL",
@@ -10109,7 +10524,12 @@
           "name": "LAVALLE",
           "description": "La denominación Lavalle abarcaba el tramo de Juramento comprendido entre las actuales Melián y Presidente Figueroa Alcorta."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Juramento",
+        "summary": "La avenida Juramento es una de las principales avenidas de los barrios de Belgrano y Villa Urquiza de la ciudad de Buenos Aires, Argentina.\nSu nombre homenajea al Juramento a la Bandera Nacional, sobre la margen del río Paraná, impuesto por Ordenanza de fecha 27 de noviembre de 1893.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Juramento"
+      }
     },
     {
       "current_name": "JUSTO, JUAN B.",
@@ -10120,7 +10540,12 @@
         "Arana",
         "Almeira o Almeyra",
         "Juan B"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Juan B. Justo (Buenos Aires)",
+        "summary": "La avenida Juan B. Justo es una de las arterias principales de la ciudad de Buenos Aires, Argentina. Comienza en la Avenida Santa Fe y finaliza en la Avenida General Paz.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Juan_B._Justo_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "JUÁREZ, BENITO",
@@ -10246,7 +10671,12 @@
             "profession": "comerciante de origen inglés"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida La Plata (subte de Buenos Aires)",
+        "summary": "Avenida La Plata es una estación de la línea E de la red de subterráneos de la Ciudad de Buenos Aires. Se encuentra ubicada debajo de la Avenida San Juan/Avenida Directorio entre Avenida La Plata y la calle Muñiz, en el límite entre los barrios de Caballito , Parque Chacabuco y Boedo.\nFue inaugurada luego de seis años de trabajos el 24 de abril de 1966, junto con la extensión a Bolívar, convirtiéndose temporalmente en terminal oeste de la línea. Perdió tal condición al inaugurarse la estación Jo...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_La_Plata_(subte_de_Buenos_Aires)"
+      }
     },
     {
       "current_name": "LA RIOJA",
@@ -10262,7 +10692,12 @@
       "current_name": "LA RÁBIDA",
       "description": "Decreto N° 4.288/1944, B.M. N° 7.258. Sin nombre anterior.",
       "legal_basis": "Decreto N° 4.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida La Rábida",
+        "summary": "La avenida La Rábida es una arteria vial del casco histórico de la ciudad de Buenos Aires, Argentina. Recibe su nombre del monasterio donde, previo al primer viaje de Colón a América, éste encontró refugio espiritual para realizar su gesta.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_La_R%C3%A1bida"
+      }
     },
     {
       "current_name": "LACARRA",
@@ -10279,12 +10714,22 @@
         {
           "name": "SAN JUAN"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Lacarra",
+        "summary": "La avenida Lacarra es una arteria vial de la Ciudad de Buenos Aires, Argentina. Debe su nombre al militar argentino Martín Lacarra.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Lacarra"
+      }
     },
     {
       "current_name": "LACROZE, FEDERICO",
       "description": "Ordenanza del 9/6/1908. Colegiales. Por Ordenanza del 27/11/1893 se confirma la permanencia de esta denominación.",
-      "legal_basis": "Ordenanza del 9/6/1908."
+      "legal_basis": "Ordenanza del 9/6/1908.",
+      "wikipedia": {
+        "title": "Avenida Federico Lacroze",
+        "summary": "La avenida Federico Lacroze es una concurrida arteria vial de la Ciudad de Buenos Aires, Argentina. Une la Avenida del Libertador con el Cementerio de la Chacarita.\nSu nombre rinde homenaje a Federico Lacroze, empresario argentino de la primera empresa de tranvías del país.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Federico_Lacroze"
+      }
     },
     {
       "current_name": "LADINES",
@@ -10458,7 +10903,12 @@
           "description": "Silva: no se han encontrado referencias sobre el significado de este nombre. Podría tratarse del apellido de algún vecino de esta calle.",
           "etymology": "no se han encontrado referencias sobre el significado de este nombre."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Lanín",
+        "summary": "La calle Lanín se encuentra en el barrio de Barracas, ciudad de Buenos Aires, Argentina. Nace en la calle Brandsen 2100 y termina en Avenida Suárez 2001 y corre entre las vías del Ferrocarril General Roca y la calle Aarón Salmón Feijoó.\nAntiguamente fue conocida como Pasaje Silva sin que existan referencias concretas sobre el origen del nombre, pudiendo tratarse del apellido de algún antiguo vecino.​ Su actual nombre se decretó en la Ordenanza del 28 de octubre de 1904, y recuerda al volcán homó...",
+        "url": "https://es.wikipedia.org/wiki/Calle_Lan%C3%ADn"
+      }
     },
     {
       "current_name": "LANÚS",
@@ -10506,7 +10956,12 @@
       "previous_names": [
         "Acosta",
         "Republiquetas"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Crisólogo Larralde",
+        "summary": "La calle Crisólogo Larralde es una de las principales arterias viales de los barrios de Nuñez, Saavedra y Villa Urquiza de la ciudad de Buenos Aires, Argentina.\nSu nombre homenajea a Crisólogo Larralde, quien fue un político argentino, perteneciente a la Unión Cívica Radical.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Cris%C3%B3logo_Larralde"
+      }
     },
     {
       "current_name": "LARRAYA",
@@ -10732,7 +11187,12 @@
         {
           "name": "SANTA TERESA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Lavalle",
+        "summary": "Lavalle es una concurrida calle, peatonal desde Avenida Leandro N. Alem hasta Carlos Pelllegrini, que se inicia en la llamada zona centro de la ciudad de Buenos Aires, Argentina. Su actual nombre le fue dado en 1878, en honor de Juan Galo de Lavalle.\nConocida durante todo el siglo XX como “la calle de los cines”, en los años 1990 sufrió una progresiva decadencia. Hacía 2007 la peatonal había revivido de la mano del turismo.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Lavalle"
+      }
     },
     {
       "current_name": "LAVALLEJA",
@@ -10918,7 +11378,12 @@
         "Libertador General San Martín",
         "Del Libertador",
         "Libertador General San Martín"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida del Libertador",
+        "summary": "La Avenida del Libertador es una importante avenida de la ciudad de Buenos Aires y de la zona norte del Gran Buenos Aires, en Argentina.\nAsimismo, funciona como eje vertebral del tránsito sur-norte en los partidos de Vicente López y San Isidro, junto a la Avenida Maipú y la Autopista Panamericana.\nNace en el barrio porteño de Retiro y finaliza luego de 35 kilómetros de recorrido en el canal San Fernando, límite entre los partidos de San Fernando y Tigre. Debe su nombre al General José de San Mar...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_del_Libertador"
+      }
     },
     {
       "current_name": "LIBERTI, ANTONIO VESPUCIO",
@@ -11250,13 +11715,23 @@
           "name": "PARÍS",
           "description": "La denominación París abarcaba el tramo de Lugones comprendido entre las actuales Álvarez Thomas y Congreso."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Leopoldo Lugones",
+        "summary": "La avenida Leopoldo Lugones es una autopista en la ciudad de Buenos Aires, Argentina. La totalidad de su trayecto es en sentido sur, en forma paralela a la Avenida Cantilo que recorre el mismo trayecto en sentido norte.\nLa autopista nace como continuación de la Avenida General Paz y finaliza en la Autopista Arturo Illia.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Leopoldo_Lugones"
+      }
     },
     {
       "current_name": "LUGONES, LEOPOLDO",
       "description": "Decreto N° 5.147/1946, B.M. N° 7.791. Sin nombre anterior.",
       "legal_basis": "Decreto N° 5.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Leopoldo Lugones",
+        "summary": "La avenida Leopoldo Lugones es una autopista en la ciudad de Buenos Aires, Argentina. La totalidad de su trayecto es en sentido sur, en forma paralela a la Avenida Cantilo que recorre el mismo trayecto en sentido norte.\nLa autopista nace como continuación de la Avenida General Paz y finaliza en la Autopista Arturo Illia.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Leopoldo_Lugones"
+      }
     },
     {
       "current_name": "LUISONI, MAYOR ARTURO PEDRO",
@@ -11594,7 +12069,12 @@
             "profession": "quien vivía en una casa sobre estas calles"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Maipú (Vicente López)",
+        "summary": "La Avenida Maipú es una de las principales avenidas del partido de Vicente López, Provincia de Buenos Aires, Argentina. Con casi 5 kilómetros de largo, funciona como el eje vertebral del tránsito sur-norte en el este del municipio, junto a la Avenida del Libertador y la Autopista Panamericana. Es un bulevar en toda su extensión, con grandes árboles de la especie Peltophorum dubium (ibirá-pitá) que dividen los sentidos norte y sur.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Maip%C3%BA_(Vicente_L%C3%B3pez)"
+      }
     },
     {
       "current_name": "MAITÉN",
@@ -11718,7 +12198,12 @@
     {
       "current_name": "MANSO, JUANA",
       "description": "Ordenanza N° 49.668/1995, B.M. N° 20.157. Perito Francisco P. Moreno. Plano Municipal, 1952. Manuel Antonio de Castro. Plano Municipal, 1952. La denominación Perito Francisco P. Moreno abarcaba el tramo comprendido entre la actual prolongación de Viamonte y la vir tual prolongación de Estados Unidos; la de Manuel Antonio de Castro, entre la virtual prolongación de Estados Unidos y Brasil (hoy Elvira Rawson de Dellepiane).",
-      "legal_basis": "Ordenanza N° 49."
+      "legal_basis": "Ordenanza N° 49.",
+      "wikipedia": {
+        "title": "Avenida Juana Manso",
+        "summary": "La Avenida Juana Manso es una de las arterias principales del barrio de Puerto Madero en la ciudad de Buenos Aires, zona caracterizada por tener nombre de mujeres en sus calles.​\nEn esta avenida se encuentra el Puente de la Mujer y el Parque Mujeres Argentinas.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Juana_Manso"
+      }
     },
     {
       "current_name": "MANZANARES",
@@ -12001,7 +12486,12 @@
       "current_name": "MAYO, AVENIDA DE",
       "description": "Ley del 4/11/1884, Ordenanza del 18/9/1885 y Decreto del 7/10/1885. Sin nombre anterior.",
       "legal_basis": "Ordenanza del 18/9/1885 y Decreto del 7/10/1885.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida de Mayo (subte de Buenos Aires)",
+        "summary": "Avenida de Mayo es una estación de la línea C de la red de subterráneos de la Ciudad de Buenos Aires ubicada debajo de la calle Bernardo de Irigoyen y su intersección con la Avenida de Mayo, en el barrio porteño de Monserrat.\nLa estación fue construida por la compañía española CHADOPyF e inaugurada junto al primer tramo de la línea C el 9 de noviembre de 1934 y tiene combinación con la estación Lima de la línea A. Al igual que en el resto de la línea, esta estación está decoradas con mayólicas y...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_de_Mayo_(subte_de_Buenos_Aires)"
+      }
     },
     {
       "current_name": "MAZA",
@@ -12073,7 +12563,12 @@
           "description": "Tranway: se denominó así ya que en la manzana comprendida por esta calle, Corrientes, Jerónimo Salguero y Humahuaca se encontraba la estación del Tranway Rural.",
           "etymology": "se denominó así ya que en la manzana comprendida por esta calle, Corrientes, Jerónimo Salguero y Humahuaca se encontraba la estación del Tranway Rural."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Medrano",
+        "summary": "La avenida Medrano es una arteria vial de la Ciudad de Buenos Aires, nombrada en honor de Pedro Medrano por Disposición Municipal del 6-3-1882.\nAtraviesa los barrios de Almagro y Palermo, corriendo en sentido sur-norte, siendo la circulación en mano contraria. La avenida se caracteriza por su añeja arboleda de plátanos colocados a fines del siglo XIX, que la cubren totalmente del sol en verano y quedan totalmente pelados en el otoño.\nEs una vía de uso principalmente residencial, aunque en todo s...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Medrano"
+      }
     },
     {
       "current_name": "MELGAR",
@@ -12402,12 +12897,22 @@
         "Piedad",
         "Lezica",
         "De la Piedad"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Bartolomé Mitre",
+        "summary": "La Avenida Bartolomé Mitre es una avenida en el Gran Buenos Aires, Argentina, una de las arterias más importantes del Partido de Vicente López, junto a Avenida de los Constituyentes. Es la continuación de la Avenida Ricardo Balbín en el norte de la ciudad de Buenos Aires.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Bartolom%C3%A9_Mitre"
+      }
     },
     {
       "current_name": "MITRE, EMILIO",
       "description": "Ordenanza del 27/7/1909. Polvorín. Plano Municipal, 1895.",
-      "legal_basis": "Ordenanza del 27/7/1909."
+      "legal_basis": "Ordenanza del 27/7/1909.",
+      "wikipedia": {
+        "title": "Avenida Bartolomé Mitre",
+        "summary": "La Avenida Bartolomé Mitre es una avenida en el Gran Buenos Aires, Argentina, una de las arterias más importantes del Partido de Vicente López, junto a Avenida de los Constituyentes. Es la continuación de la Avenida Ricardo Balbín en el norte de la ciudad de Buenos Aires.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Bartolom%C3%A9_Mitre"
+      }
     },
     {
       "current_name": "MIÑONES",
@@ -12541,7 +13046,12 @@
             "profession": "militar"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Monroe",
+        "summary": "La avenida Monroe es una de las principales avenidas de los barrios de Belgrano, Coghlan y Villa Urquiza de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Monroe"
+      }
     },
     {
       "current_name": "MONTALVO, FERNANDO DE",
@@ -12615,12 +13125,22 @@
         "Calle Larga o Larga de Barracas",
         "Buen Orden",
         "Santa Lucía"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Montes de Oca",
+        "summary": "La avenida Manuel A. Montes de Oca es una arteria vial del sur de la Ciudad de Buenos Aires, Argentina.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Montes_de_Oca"
+      }
     },
     {
       "current_name": "MONTES, VICTORIANO E.",
       "description": "Decreto N° 4.936/1944, B.M. N° 7.280. José Carducci. Plano J. Vital Dupont, 1941.",
-      "legal_basis": "Decreto N° 4."
+      "legal_basis": "Decreto N° 4.",
+      "wikipedia": {
+        "title": "Avenida Montes de Oca",
+        "summary": "La avenida Manuel A. Montes de Oca es una arteria vial del sur de la Ciudad de Buenos Aires, Argentina.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Montes_de_Oca"
+      }
     },
     {
       "current_name": "MONTESQUIEU",
@@ -12863,7 +13383,12 @@
       "previous_names": [
         "Necochea",
         "América"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Mosconi (Quilmes)",
+        "summary": "La avenida General Mosconi es una importante avenida del Partido de Quilmes, en el sur del Área Metropolitana de Buenos Aires. Nace en la Av. Lamadrid, en el límite de las localidades de Bernal Oeste y Quilmes Oeste, y finaliza luego de unos 5 km en la Ruta Provincial 4, en el límite de los partidos de Quilmes y Florencio Varela, continuando a partir de ese punto como Avenida San Martín. Debe su nombre a Enrique Mosconi, militar e ingeniero civil argentino, conocido por ser el primer presidente ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Mosconi_(Quilmes)"
+      }
     },
     {
       "current_name": "MOSCÚ",
@@ -13223,7 +13748,12 @@
           "description": "La denominación Sevilla abarcaba el tramo de Nazca comprendido entre las actuales Francisco Beiró y Ezeiza. Sevilla: ciudad y provincia de España en la región de Andalucía. SHAKESPEARE véase JUÁREZ SEGUNDA, BENITO",
           "etymology": "ciudad y provincia de España en la región de Andalucía."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Nazca",
+        "summary": "La avenida Nazca es una concurrida arteria vial de la Ciudad de Buenos Aires, Argentina.\nEn 1895 era la calle Sevilla.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Nazca"
+      }
     },
     {
       "current_name": "NAÓN, DOCTOR RÓMULO S.",
@@ -13489,7 +14019,12 @@
     {
       "current_name": "OBLIGADO, COSTANERA RAFAEL",
       "description": "Ordenanza N° 8.931 del 21/12/1937. Costanera Norte. Se la menciona así cuando por Ordenanza N° 8.931 se le impone su actual nombre.",
-      "legal_basis": "Ordenanza N° 8."
+      "legal_basis": "Ordenanza N° 8.",
+      "wikipedia": {
+        "title": "Avenida Costanera Rafael Obligado",
+        "summary": "La avenida Costanera Rafael Obligado (también conocida como Avenida Costanera Norte) es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Costanera_Rafael_Obligado"
+      }
     },
     {
       "current_name": "OBLIGADO, VUELTA DE",
@@ -13498,7 +14033,12 @@
       "previous_names": [
         "Río Bamba",
         "Obligado"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Costanera Rafael Obligado",
+        "summary": "La avenida Costanera Rafael Obligado (también conocida como Avenida Costanera Norte) es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Costanera_Rafael_Obligado"
+      }
     },
     {
       "current_name": "OCAMPO, VICTORIA",
@@ -13785,18 +14325,33 @@
     {
       "current_name": "ORTIZ, CARLOS",
       "description": "Ordenanza Nº 1.697 del 30/6/1926, B.M. Nº 838. Membrillar. Ordenanza del 27/11/1893. Esta denominación abarcaba el tramo comprendido entre las actuales Asamblea y Santander y recibe el nombre de Carlos Ortiz por Decreto Nº 1.411/1954, B.M. Nº 9.793.",
-      "legal_basis": "Ordenanza Nº 1."
+      "legal_basis": "Ordenanza Nº 1.",
+      "wikipedia": {
+        "title": "Avenida Scalabrini Ortiz",
+        "summary": "La Avenida Raúl Scalabrini Ortiz, conocida por un tramo como Calle Raúl Scalabrini Ortiz, es una concurrida arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Scalabrini_Ortiz"
+      }
     },
     {
       "current_name": "ORTIZ, FRANCISCO J.",
       "description": "Ordenanza N° 5.571/1934, B.M. N° 3.681-2. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 5.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Scalabrini Ortiz",
+        "summary": "La Avenida Raúl Scalabrini Ortiz, conocida por un tramo como Calle Raúl Scalabrini Ortiz, es una concurrida arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Scalabrini_Ortiz"
+      }
     },
     {
       "current_name": "ORTIZ, PRESIDENTE ROBERTO M.",
       "description": "Ordenanza N° 25.942/1971, B.M. N° 14.125. Junín. Ordenanza del 25/8/1857.",
-      "legal_basis": "Ordenanza N° 25."
+      "legal_basis": "Ordenanza N° 25.",
+      "wikipedia": {
+        "title": "Avenida Scalabrini Ortiz",
+        "summary": "La Avenida Raúl Scalabrini Ortiz, conocida por un tramo como Calle Raúl Scalabrini Ortiz, es una concurrida arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Scalabrini_Ortiz"
+      }
     },
     {
       "current_name": "ORURO",
@@ -14381,17 +14936,32 @@
         "Camino de las Tropas",
         "Camino de San Martín",
         "Avenida Límite"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Paz",
+        "summary": "La Avenida General Paz es una autopista de 24,3 km de extensión en la Ciudad Autónoma de Buenos Aires, Argentina. Su recorrido se inicia en la Avenida Lugones en cercanías del Río de la Plata y concluye en el Puente de la Noria sobre el Río Matanza-Riachuelo constituyendo en gran parte el límite entre la Ciudad Autónoma de Buenos Aires y la Provincia de Buenos Aires. Continúa hacia el sudeste del puente de La Noria con el nombre popular de Camino Negro, que es otra autopista. Es utilizada mayori...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Paz"
+      }
     },
     {
       "current_name": "PAZ, JOSÉ C.",
       "description": "Ordenanza N° 21.642/1966, B.M. N° 12.921. Aconquija. Ordenanza del 27/11/1893.",
-      "legal_basis": "Ordenanza N° 21."
+      "legal_basis": "Ordenanza N° 21.",
+      "wikipedia": {
+        "title": "Avenida General Paz",
+        "summary": "La Avenida General Paz es una autopista de 24,3 km de extensión en la Ciudad Autónoma de Buenos Aires, Argentina. Su recorrido se inicia en la Avenida Lugones en cercanías del Río de la Plata y concluye en el Puente de la Noria sobre el Río Matanza-Riachuelo constituyendo en gran parte el límite entre la Ciudad Autónoma de Buenos Aires y la Provincia de Buenos Aires. Continúa hacia el sudeste del puente de La Noria con el nombre popular de Camino Negro, que es otra autopista. Es utilizada mayori...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Paz"
+      }
     },
     {
       "current_name": "PAZ, MARCOS",
       "description": "Ordenanza del 28/10/1904. Hamburgo. Plano de Villa Devoto de Juan Buschiazzo, 1889. Esta denominación abarcaba el tramo comprendido entre las actuales Francisco Beiró y General Mosconi.",
-      "legal_basis": "Ordenanza del 28/10/1904."
+      "legal_basis": "Ordenanza del 28/10/1904.",
+      "wikipedia": {
+        "title": "Avenida General Paz",
+        "summary": "La Avenida General Paz es una autopista de 24,3 km de extensión en la Ciudad Autónoma de Buenos Aires, Argentina. Su recorrido se inicia en la Avenida Lugones en cercanías del Río de la Plata y concluye en el Puente de la Noria sobre el Río Matanza-Riachuelo constituyendo en gran parte el límite entre la Ciudad Autónoma de Buenos Aires y la Provincia de Buenos Aires. Continúa hacia el sudeste del puente de La Noria con el nombre popular de Camino Negro, que es otra autopista. Es utilizada mayori...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Paz"
+      }
     },
     {
       "current_name": "PAZOS, JOSÉ",
@@ -14569,7 +15139,12 @@
         "Alberdi",
         "Campana",
         "Doctor Norberto Quirno Costa"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Presidente Perón",
+        "summary": "Avenida Presidente Perón es el nombre de diversas arterias viales de Argentina:\n\nAvenida Presidente Juan Domingo Perón, nombre de una avenida del oeste del partido de Vicente López;\nAvenida Presidente Juan Domingo Perón, nombre que recibe gran parte del Camino Negro en el partido de Lomas de Zamora, provincia de Buenos Aires;\nAvenida Presidente Juan Domingo Perón, nombre con la que se denomina a la Avenida Rivadavia dentro del partido de Merlo, provincia de Buenos Aires;\nAvenida Presidente Perón...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Presidente_Per%C3%B3n"
+      }
     },
     {
       "current_name": "PERÓN, TENIENTE GENERAL JUAN DOMINGO",
@@ -14581,7 +15156,12 @@
         "Sáenz Valiente",
         "Cangallo",
         "Cangallo"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Presidente Perón",
+        "summary": "Avenida Presidente Perón es el nombre de diversas arterias viales de Argentina:\n\nAvenida Presidente Juan Domingo Perón, nombre de una avenida del oeste del partido de Vicente López;\nAvenida Presidente Juan Domingo Perón, nombre que recibe gran parte del Camino Negro en el partido de Lomas de Zamora, provincia de Buenos Aires;\nAvenida Presidente Juan Domingo Perón, nombre con la que se denomina a la Avenida Rivadavia dentro del partido de Merlo, provincia de Buenos Aires;\nAvenida Presidente Perón...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Presidente_Per%C3%B3n"
+      }
     },
     {
       "current_name": "PERÚ",
@@ -14613,7 +15193,12 @@
         {
           "name": "UNQUERA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Perú",
+        "summary": "La calle Perú es una arteria vial que se encuentra en el centro histórico de la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Per%C3%BA"
+      }
     },
     {
       "current_name": "PESCADORES",
@@ -14704,7 +15289,12 @@
     {
       "current_name": "PIEDRA BUENA",
       "description": "Ordenanza N° 23.880/1968, B.M. N° 13.397. Piedrabuena. Ordenanza del 28/10/1904.",
-      "legal_basis": "Ordenanza N° 23."
+      "legal_basis": "Ordenanza N° 23.",
+      "wikipedia": {
+        "title": "Avenida Piedra Buena",
+        "summary": "La Avenida Piedra Buena es una arteria vial de la zona sudoeste de la ciudad de Buenos Aires. \nDebe su nombre al comandante de marina Luis Piedrabuena. Dos ordenanzas establecen esta denominación: la primera, en 1904; la segunda, en 1968.​\nLa avenida Piedrabuena tiene su recorrido dentro de la Comuna 8, en dirección norte-sur. Empieza su trayecto en la Avenida Eva Perón, arteria que constituye el límite entre los barrios de Mataderos y Villa Lugano. Esta vía, una vez, que atraviesa la autopista ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Piedra_Buena"
+      }
     },
     {
       "current_name": "PIEDRAS",
@@ -15327,7 +15917,12 @@
           "description": "La denominación Calle de Cueli abarcaba el tramo de Anchorena comprendido entre Charcas y Peña y el de Pueyrredón comprendido entre Peña y Las Heras. Cueli: apellido de una tradicional familia de la zona propietaria de extensos terrenos. El primer Cueli fue Juan Agustín quien compra sus primeras tierras en 1743 (Pino Diego A. del, “Una antigua familia de Palermo: Los Cueli”, en La Gaceta de Palermo, año I, Nº 3, 1986, pp. 18-22).",
           "etymology": "apellido de una tradicional familia de la zona propietaria de extensos terrenos."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Pueyrredón",
+        "summary": "La avenida Pueyrredón es una importante avenida de la Ciudad de Buenos Aires, Argentina.\nRecibe su nombre como homenaje a Juan Martín de Pueyrredón, militar y político argentino del siglo XIX, Director Supremo de las Provincias Unidas del Río de la Plata.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Pueyrred%C3%B3n"
+      }
     },
     {
       "current_name": "PUEYRREDÓN, DOCTOR HONORIO",
@@ -15337,13 +15932,23 @@
         "Parral",
         "Doctor Honorio Pueyrredón",
         "Parral"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Pueyrredón",
+        "summary": "La avenida Pueyrredón es una importante avenida de la Ciudad de Buenos Aires, Argentina.\nRecibe su nombre como homenaje a Juan Martín de Pueyrredón, militar y político argentino del siglo XIX, Director Supremo de las Provincias Unidas del Río de la Plata.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Pueyrred%C3%B3n"
+      }
     },
     {
       "current_name": "PUEYRREDÓN, PRILIDIANO",
       "description": "Decreto N° 3.781/1944, B.M. N° 7.241. Sin nombre anterior.",
       "legal_basis": "Decreto N° 3.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Pueyrredón",
+        "summary": "La avenida Pueyrredón es una importante avenida de la Ciudad de Buenos Aires, Argentina.\nRecibe su nombre como homenaje a Juan Martín de Pueyrredón, militar y político argentino del siglo XIX, Director Supremo de las Provincias Unidas del Río de la Plata.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Pueyrred%C3%B3n"
+      }
     },
     {
       "current_name": "PUJOL",
@@ -15541,7 +16146,12 @@
           "description": "Yapeyú: localidad cabecera del departamento San Martín, Corrientes; es el pueblo natal del general José de San Martín.",
           "etymology": "localidad cabecera del departamento San Martín, Corrientes; es el pueblo natal del general José de San Martín."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Mosconi (Quilmes)",
+        "summary": "La avenida General Mosconi es una importante avenida del Partido de Quilmes, en el sur del Área Metropolitana de Buenos Aires. Nace en la Av. Lamadrid, en el límite de las localidades de Bernal Oeste y Quilmes Oeste, y finaliza luego de unos 5 km en la Ruta Provincial 4, en el límite de los partidos de Quilmes y Florencio Varela, continuando a partir de ese punto como Avenida San Martín. Debe su nombre a Enrique Mosconi, militar e ingeniero civil argentino, conocido por ser el primer presidente ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Mosconi_(Quilmes)"
+      }
     },
     {
       "current_name": "QUINQUELA MARTÍN, BENITO",
@@ -15555,7 +16165,12 @@
     {
       "current_name": "QUINTANA",
       "description": "Plano Topográfico Municipal, 1892. Sin nombre anterior.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Quintana",
+        "summary": "La avenida Presidente Quintana es una de las tradicionales arterias del Barrio Norte de Buenos Aires, Argentina. Se inicia en la intersección de las calles Libertad y Juncal (lugar que antiguamente se denominaba Cinco Esquinas), finalizando en la Basílica Nuestra Señora del Pilar de la Recoleta y el cementerio de la Recoleta.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Quintana"
+      }
     },
     {
       "current_name": "QUINTANA, JOSÉ DE LA",
@@ -15563,7 +16178,12 @@
       "legal_basis": "Decreto del 24/8/1944, B.",
       "previous_names": [
         "Añatuya"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Quintana",
+        "summary": "La avenida Presidente Quintana es una de las tradicionales arterias del Barrio Norte de Buenos Aires, Argentina. Se inicia en la intersección de las calles Libertad y Juncal (lugar que antiguamente se denominaba Cinco Esquinas), finalizando en la Basílica Nuestra Señora del Pilar de la Recoleta y el cementerio de la Recoleta.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Quintana"
+      }
     },
     {
       "current_name": "QUINTANA, PRESIDENTE",
@@ -15571,7 +16191,12 @@
       "legal_basis": "Ordenanza del 29/5/1906.",
       "previous_names": [
         "Larga de la Recoleta"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Quintana",
+        "summary": "La avenida Presidente Quintana es una de las tradicionales arterias del Barrio Norte de Buenos Aires, Argentina. Se inicia en la intersección de las calles Libertad y Juncal (lugar que antiguamente se denominaba Cinco Esquinas), finalizando en la Basílica Nuestra Señora del Pilar de la Recoleta y el cementerio de la Recoleta.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Quintana"
+      }
     },
     {
       "current_name": "QUINTEROS, LIDORO J.",
@@ -15642,7 +16267,12 @@
         "Camino del Pajonal",
         "Camino al Puente Alsina",
         "Coronel Roca"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Intendente Francisco Rabanal",
+        "summary": "La avenida Intendente Francisco Rabanal es una arteria vial de la ciudad de Buenos Aires. Comienza en la Avenida Sáenz, en Nueva Pompeya y finaliza en la calle Pergamino, en Villa Soldati, donde continúa como Avenida Coronel Roca.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Intendente_Francisco_Rabanal"
+      }
     },
     {
       "current_name": "RACEDO, TENIENTE GENERAL EDUARDO",
@@ -15723,7 +16353,12 @@
             "profession": "Adelantado del Río de la Plata"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida de Mayo (Ramos Mejía)",
+        "summary": "La avenida de Mayo es una de las principales arterias viales de Ramos Mejía, ciudad de más de 100.000 habitantes, ubicada en el Partido de La Matanza, Provincia de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_de_Mayo_(Ramos_Mej%C3%ADa)"
+      }
     },
     {
       "current_name": "RAMOS MEJÍA, DOCTOR JOSÉ MARÍA",
@@ -15733,7 +16368,12 @@
         "Maipú",
         "Doctor José María Ramos Mejía",
         "Maipú"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida de Mayo (Ramos Mejía)",
+        "summary": "La avenida de Mayo es una de las principales arterias viales de Ramos Mejía, ciudad de más de 100.000 habitantes, ubicada en el Partido de La Matanza, Provincia de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_de_Mayo_(Ramos_Mej%C3%ADa)"
+      }
     },
     {
       "current_name": "RAMSAY",
@@ -15905,12 +16545,22 @@
           "description": "Mirador: según Llanes, estas calles se denominaban así por el mirador existente en la quinta de Lezica (Llanes, Ricardo M., “Recuerdos del camino de Gauna”, en La Prensa, 13/4/1975).",
           "etymology": "según Llanes, estas calles se denominaban así por el mirador existente en la quinta de Lezica (Llanes, Ricardo M."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Elvira Rawson de Dellepiane",
+        "summary": "El Bulevar Elvira Rawson de Dellepiane es una de las cinco avenidas en dirección este-oeste que conectan Puerto Madero con el centro de la ciudad de Buenos Aires. Es una prolongación de la calle Brasil, que tomó su nombre actual por una Ordenanza de la Ciudad de Buenos Aires, sancionada en 1995.\nEn la actualidad, es uno de los bordes del “nuevo” Puerto Madero, marcando el límite de la zona renovada por inversiones públicas e inmobiliarias para transformar el antiguo puerto abandonado en un barri...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Elvira_Rawson_de_Dellepiane"
+      }
     },
     {
       "current_name": "RAWSON DE DELLEPIANE, ELVIRA",
       "description": "Ordenanza N° 49.668/1995, B.M. N° 20.157. Brasil. Plano Municipal, 1942.",
-      "legal_basis": "Ordenanza N° 49."
+      "legal_basis": "Ordenanza N° 49.",
+      "wikipedia": {
+        "title": "Avenida Elvira Rawson de Dellepiane",
+        "summary": "El Bulevar Elvira Rawson de Dellepiane es una de las cinco avenidas en dirección este-oeste que conectan Puerto Madero con el centro de la ciudad de Buenos Aires. Es una prolongación de la calle Brasil, que tomó su nombre actual por una Ordenanza de la Ciudad de Buenos Aires, sancionada en 1995.\nEn la actualidad, es uno de los bordes del “nuevo” Puerto Madero, marcando el límite de la zona renovada por inversiones públicas e inmobiliarias para transformar el antiguo puerto abandonado en un barri...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Elvira_Rawson_de_Dellepiane"
+      }
     },
     {
       "current_name": "REARTE, GUSTAVO",
@@ -15954,7 +16604,12 @@
         {
           "name": "SAN MARTÍN"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Reconquista",
+        "summary": "La calle Reconquista es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina y una de las calles más importantes del microcentro, zona financiera porteña. Fue peatonalizada durante el año 2009.",
+        "url": "https://es.wikipedia.org/wiki/Calle_Reconquista"
+      }
     },
     {
       "current_name": "RECUERDOS DE PROVINCIA",
@@ -16081,7 +16736,12 @@
       "current_name": "RICCHERI, TENIENTE GENERAL PABLO",
       "description": "Ordenanza N° 12.027/1940, B.M. N° 6.075-6. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 12.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Teniente General Riccheri",
+        "summary": "La avenida Teniente General Riccheri (mal citado como \"Ricchieri\" en la nomenclatura de las calles), más conocida solamente como Riccheri, es una de las principales calles de la localidad de Bella Vista, ubicada en el partido de San Miguel​ en la provincia de Buenos Aires.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Teniente_General_Riccheri"
+      }
     },
     {
       "current_name": "RICCIO, GUSTAVO",
@@ -16178,12 +16838,22 @@
           "name": "TORRES, DE LAS",
           "description": "De las Torres: la calle se conoció con este nombre por las torres que poseía la Catedral de Buenos Aires que sobre ella se encuentra (Lamas, Domingo, Las calles de Buenos Aires, su nomenclatura desde 1580 hasta 1808, Buenos Aires, Imp. Europea de M. A. Rosas, 1908)."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Rivadavia",
+        "summary": "La avenida Rivadavia es una de las más importantes arterias de la ciudad de Buenos Aires y del oeste del Gran Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Rivadavia"
+      }
     },
     {
       "current_name": "RIVADAVIA, COMODORO MARTÍN",
       "description": "Ordenanza N° 13.537/1942, B.M. N° 6.639. Arroyo Medrano. Caso similar al de Boedo. Véase AGACES.",
-      "legal_basis": "Ordenanza N° 13."
+      "legal_basis": "Ordenanza N° 13.",
+      "wikipedia": {
+        "title": "Avenida Rivadavia",
+        "summary": "La avenida Rivadavia es una de las más importantes arterias de la ciudad de Buenos Aires y del oeste del Gran Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Rivadavia"
+      }
     },
     {
       "current_name": "RIVAROLA, DOCTOR RODOLFO",
@@ -16258,12 +16928,22 @@
         "Camino de la Arena",
         "Camino del Pajonal",
         "Camino al Puente Alsina"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Presidente Julio Argentino Roca",
+        "summary": "La avenida Presidente Julio Argentino Roca, más conocida como Diagonal Sur, es una arteria del casco histórico de la Ciudad de Buenos Aires. Junto a Diagonal Norte y la Avenida de Mayo son los accesos más cercanos al centro político del país, los edificios que bordean la Plaza de Mayo.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Presidente_Julio_Argentino_Roca"
+      }
     },
     {
       "current_name": "ROCA, PRESIDENTE JULIO A.",
       "description": "Ordenanza del 30/10/1914. Diagonal Sur. Se la menciona así en las resoluciones del año 1912 que disponen las expropiaciones necesarias para su apertura.",
-      "legal_basis": "Ordenanza del 30/10/1914."
+      "legal_basis": "Ordenanza del 30/10/1914.",
+      "wikipedia": {
+        "title": "Avenida Presidente Julio Argentino Roca",
+        "summary": "La avenida Presidente Julio Argentino Roca, más conocida como Diagonal Sur, es una arteria del casco histórico de la Ciudad de Buenos Aires. Junto a Diagonal Norte y la Avenida de Mayo son los accesos más cercanos al centro político del país, los edificios que bordean la Plaza de Mayo.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Presidente_Julio_Argentino_Roca"
+      }
     },
     {
       "current_name": "ROCAMORA",
@@ -16500,7 +17180,12 @@
       "previous_names": [
         "Oliver",
         "Guanacache"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Roosevelt (Maldonado)",
+        "summary": "La Avenida Franklin Delano Roosevelt, coloquialmente conocida como Avenida Roosevelt, o simplemente Roosevelt, es una de las avenidas principales de las ciudades de Maldonado y Punta del Este. Fue designada en honor al presidente estadounidense Franklin D. Roosevelt.\nCon una longitud de 5,6 km, nace en la Parada 8 de la Rambla Lorenzo Batlle Pacheco, y se extiende hasta su intersección con Avenida España, en la zona de Las Delicias. Al igual que múltiples avenidas de las ciudades, ésta se divide...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Roosevelt_(Maldonado)"
+      }
     },
     {
       "current_name": "ROSALES",
@@ -16625,7 +17310,12 @@
     {
       "current_name": "RUIZ HUIDOBRO",
       "description": "Ordenanza del 27/11/1893. Junio o 22 de Junio. Plano Municipal, 1895. Piedras o Las Piedras. Plano Municipal, 1895. La denominación Junio o 22 de Junio abarcaba el tramo comprendido entre las actuales Pinto y del Libertador; Piedras o Las Piedras, entre Pinto y Plaza.",
-      "legal_basis": "Ordenanza del 27/11/1893."
+      "legal_basis": "Ordenanza del 27/11/1893.",
+      "wikipedia": {
+        "title": "Avenida Ruiz Huidobro",
+        "summary": "La avenida Ruiz Huidobro es una de las principales avenidas de los barrios de Saavedra y Núñez de la ciudad de Buenos Aires, Argentina.\nTiene como característica especial que en su tramo como avenida (desde la calle Melian hasta la Ricardo Balbín) posee un pequeño bulevar.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Ruiz_Huidobro"
+      }
     },
     {
       "current_name": "RUIZ MORENO, GENERAL JULIO",
@@ -16707,7 +17397,12 @@
           "description": "República: homenaje a la forma de gobierno adoptada por nuestro país.",
           "etymology": "homenaje a la forma de gobierno adoptada por nuestro país."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida García del Río",
+        "summary": "La avenida García del Río es una avenida de la Ciudad de Buenos Aires, Argentina, del barrio de Saavedra.\nSu nombre homenajea a Juan García del Río (1794-1856), quien fuera un político y escritor colombiano.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Garc%C3%ADa_del_R%C3%ADo"
+      }
     },
     {
       "current_name": "RÍO NEGRO",
@@ -16900,7 +17595,12 @@
         "Peribebuy",
         "Basualdo",
         "San Alberto"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN ANTONIO",
@@ -16920,7 +17620,12 @@
             "profession": "militar"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida San Juan (Buenos Aires)",
+        "summary": "La avenida San Juan es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina. Está mayormente caracterizada por el uso residencial del suelo, ya que no representa un gran centro comercial ni un polo industrial, abundando los edificios e incluso las casas antiguas en todo su recorrido. Toma el nombre de la provincia cuyana de San Juan.\nBajo gran parte de su extensión, corre la Línea E de la red de subterráneos de Buenos Aires. Entre la avenida Ingeniero Huergo y la calle Rin...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_San_Juan_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN ANTONIO DE ARECO",
@@ -16952,7 +17657,12 @@
             "profession": "odontólogo y político"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida San Martín (Vicente López)",
+        "summary": "La Avenida General José de San Martín es una arteria vial del partido de Vicente López, zona norte del Gran Buenos Aires, provincia de Buenos Aires.\nNace en la costanera de Vicente Lopez y finaliza su recorrido en la Avenida de los Constituyentes al oeste del partido. Continúa como la avenida Juan María Campos en la localidad de San Andrés.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_San_Mart%C3%ADn_(Vicente_L%C3%B3pez)"
+      }
     },
     {
       "current_name": "SAN CARLOS, COMBATE DE",
@@ -16974,7 +17684,12 @@
             "profession": "militar y banquero español"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida San Martín (Buenos Aires)",
+        "summary": "La avenida San Martín es una concurrida arteria vial de la Ciudad de Buenos Aires, Argentina.\nDesde 1870 fue conocida como el camino que unía a la Ciudad de Buenos Aires y el entonces pueblo de San Martín, al cual debe su nombre.​",
+        "url": "https://es.wikipedia.org/wiki/Avenida_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN FRANCISCO DE ASÍS",
@@ -17034,7 +17749,12 @@
         {
           "name": "SANTA FE"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida San Isidro Labrador",
+        "summary": "La Avenida San Isidro Labrador, también conocida como Avenida San Isidro, es un boulevard en el barrio de Saavedra, en el norte de la ciudad de Buenos Aires. Confluye con la Avenida Cabildo al norte, a metros del Puente Saavedra y vuelve a confluir con la misma Avenida Cabildo al sur, teniendo apenas 900 metros de longitud.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_San_Isidro_Labrador"
+      }
     },
     {
       "current_name": "SAN JOSÉ",
@@ -17043,7 +17763,12 @@
         {
           "name": "PAZOS"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN JOSÉ DE CALASANZ",
@@ -17067,7 +17792,12 @@
           "description": "Picheuta: paso y fortín de la cordillera de los Andes donde se enfrentaron realistas y patriotas el 24 de enero de 1817.",
           "etymology": "paso y fortín de la cordillera de los Andes donde se enfrentaron realistas y patriotas el 24 de enero de 1817."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida San Juan (Buenos Aires)",
+        "summary": "La avenida San Juan es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina. Está mayormente caracterizada por el uso residencial del suelo, ya que no representa un gran centro comercial ni un polo industrial, abundando los edificios e incluso las casas antiguas en todo su recorrido. Toma el nombre de la provincia cuyana de San Juan.\nBajo gran parte de su extensión, corre la Línea E de la red de subterráneos de Buenos Aires. Entre la avenida Ingeniero Huergo y la calle Rin...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_San_Juan_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN JUAN",
@@ -17089,7 +17819,12 @@
         {
           "name": "SAN CRISTÓBAL"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN LORENZO",
@@ -17157,7 +17892,12 @@
         {
           "name": "VICTORIA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN MARTÍN DE TOURS",
@@ -17173,7 +17913,12 @@
             "profession": "jurisconsulto"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN MATEO",
@@ -17190,7 +17935,12 @@
           "name": "MADRID",
           "description": "La denominación Madrid abarcaba el tramo de San Nicolás comprendido entre las actuales avenidas Francisco Beiró y General Paz."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN PEDRITO",
@@ -17211,7 +17961,12 @@
     {
       "current_name": "SAN RICARDO",
       "description": "Plano Topográfico Municipal, 1892. Sin nombre anterior.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Calle San Martín (Buenos Aires)",
+        "summary": "La calle San Martín es una arteria vial que recorre el casco histórico de la ciudad de Buenos Aires, Argentina. Es también una de las calles más importantes de la city financiera porteña.",
+        "url": "https://es.wikipedia.org/wiki/Calle_San_Mart%C3%ADn_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "SAN SEBASTIÁN",
@@ -17279,7 +18034,12 @@
           "description": "Antigua prolongación de la actual Pasco. Pasco: batalla librada en las inmediaciones de esta ciudad de Perú, por el general Álvarez de Arenales, el 6 de diciembre de 1820. PASEO DE JULIO véase JULIO, PASEO DE PASO DE BURGOS, CALLE DEL véase CAMINO AL PASO DE BURGOS",
           "etymology": "batalla librada en las inmediaciones de esta ciudad de Perú, por el general Álvarez de Arenales, el 6 de diciembre de 1820."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Santa Fe",
+        "summary": "La Avenida Santa Fe es una de las principales avenidas de Buenos Aires. La arteria constituye el eje esencial del imaginario Barrio Norte, que comprende las zonas influidas por el recorrido de la avenida a través de Retiro y Recoleta. Es considerada como uno de los principales centros de compra y paseo de la ciudad, especialmente de indumentaria, por lo que se la ha llamado la Avenida de la Moda. Asimismo constituye un atractivo por su arquitectura, que evoca fuertemente a París. Su nombre hace ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Santa_Fe"
+      }
     },
     {
       "current_name": "SANTA ELENA",
@@ -17327,12 +18087,22 @@
             "profession": "Papa entre 590 y 604"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Santa Fe",
+        "summary": "La Avenida Santa Fe es una de las principales avenidas de Buenos Aires. La arteria constituye el eje esencial del imaginario Barrio Norte, que comprende las zonas influidas por el recorrido de la avenida a través de Retiro y Recoleta. Es considerada como uno de los principales centros de compra y paseo de la ciudad, especialmente de indumentaria, por lo que se la ha llamado la Avenida de la Moda. Asimismo constituye un atractivo por su arquitectura, que evoca fuertemente a París. Su nombre hace ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Santa_Fe"
+      }
     },
     {
       "current_name": "SANTA MAGDALENA",
       "description": "Plano Topográfico, 1867. Sin nombre anterior.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Santa Fe",
+        "summary": "La Avenida Santa Fe es una de las principales avenidas de Buenos Aires. La arteria constituye el eje esencial del imaginario Barrio Norte, que comprende las zonas influidas por el recorrido de la avenida a través de Retiro y Recoleta. Es considerada como uno de los principales centros de compra y paseo de la ciudad, especialmente de indumentaria, por lo que se la ha llamado la Avenida de la Moda. Asimismo constituye un atractivo por su arquitectura, que evoca fuertemente a París. Su nombre hace ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Santa_Fe"
+      }
     },
     {
       "current_name": "SANTA MARÍA DEL BUEN AIRE",
@@ -17353,7 +18123,12 @@
     {
       "current_name": "SANTA MARÍA, LA",
       "description": "Decreto N° 3.570/1944, B.M. N° 7.230. Lope de Vega segunda. Plano Peuser, 1935.",
-      "legal_basis": "Decreto N° 3."
+      "legal_basis": "Decreto N° 3.",
+      "wikipedia": {
+        "title": "Avenida Santa Fe",
+        "summary": "La Avenida Santa Fe es una de las principales avenidas de Buenos Aires. La arteria constituye el eje esencial del imaginario Barrio Norte, que comprende las zonas influidas por el recorrido de la avenida a través de Retiro y Recoleta. Es considerada como uno de los principales centros de compra y paseo de la ciudad, especialmente de indumentaria, por lo que se la ha llamado la Avenida de la Moda. Asimismo constituye un atractivo por su arquitectura, que evoca fuertemente a París. Su nombre hace ...",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Santa_Fe"
+      }
     },
     {
       "current_name": "SANTA ROSA",
@@ -17510,14 +18285,29 @@
           "name": "VIRGENCITA, CALLE DE LA",
           "description": "La denominación Calle de la Virgencita abarcaba el tramo de Sarmiento comprendido entre las actuales Reconquista y Leandro N. Alem. Calle de la Virgencita: se la conoció con este nombre debido a una imagen de Nuestra Señora que estaba en el muro del convento de los Mercedarios (Lafuente Machain, R. de, Buenos Aires en el siglo XVIII, Buenos Aires, MCBA, 1980, p. 69)."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida General Sarmiento",
+        "summary": "La Avenida General Sarmiento, más conocida como Avenida Sarmiento, es una importante arteria vial que atraviesa el Parque Tres de Febrero en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Sarmiento"
+      }
     },
     {
       "current_name": "SARMIENTO, AVENIDA",
-      "description": "Plano de Pedro P. Uzal, 1879. Avenida de las Palmeras. Guía Kraft, 1888."
+      "description": "Plano de Pedro P. Uzal, 1879. Avenida de las Palmeras. Guía Kraft, 1888.",
+      "wikipedia": {
+        "title": "Avenida General Sarmiento",
+        "summary": "La Avenida General Sarmiento, más conocida como Avenida Sarmiento, es una importante arteria vial que atraviesa el Parque Tres de Febrero en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Sarmiento"
+      }
     },
     {
-      "current_name": "SARMIENTO, PAULA."
+      "current_name": "SARMIENTO, PAULA.",
+      "wikipedia": {
+        "title": "Avenida General Sarmiento",
+        "summary": "La Avenida General Sarmiento, más conocida como Avenida Sarmiento, es una importante arteria vial que atraviesa el Parque Tres de Febrero en la ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_General_Sarmiento"
+      }
     },
     {
       "current_name": "SARÁCHAGA",
@@ -17580,7 +18370,12 @@
         "Canning",
         "Raúl Scalabrini Ortiz",
         "Canning"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Scalabrini Ortiz",
+        "summary": "La Avenida Raúl Scalabrini Ortiz, conocida por un tramo como Calle Raúl Scalabrini Ortiz, es una concurrida arteria vial de la Ciudad Autónoma de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Scalabrini_Ortiz"
+      }
     },
     {
       "current_name": "SCAPINO, RODOLFO",
@@ -17613,7 +18408,12 @@
         {
           "name": "CAMINO A MONTE CASTRO"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Segurola",
+        "summary": "La avenida Segurola es una arteria vial de una sola mano del oeste-noroeste de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Segurola"
+      }
     },
     {
       "current_name": "SEGUÍ, ALMIRANTE F. J.",
@@ -18111,7 +18911,12 @@
         "Muxica",
         "Lorea",
         "Sáenz Peña"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Roque Sáenz Peña",
+        "summary": "La avenida Presidente Roque Sáenz Peña, más conocida como Diagonal Norte, es una importante arteria de la ciudad de Buenos Aires, capital de la Argentina, que tiene el contenido simbólico de unir la sede del Poder Ejecutivo (Casa Rosada) con la sede del Poder Judicial (Palacio de la Corte Suprema de Justicia de la Nación), del mismo modo que la avenida de Mayo une a los poderes ejecutivo y legislativo.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Roque_S%C3%A1enz_Pe%C3%B1a"
+      }
     },
     {
       "current_name": "SÁENZ PEÑA, PRESIDENTE ROQUE",
@@ -18120,7 +18925,12 @@
       "previous_names": [
         "Del Centenario",
         "Diagonal Norte"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Roque Sáenz Peña",
+        "summary": "La avenida Presidente Roque Sáenz Peña, más conocida como Diagonal Norte, es una importante arteria de la ciudad de Buenos Aires, capital de la Argentina, que tiene el contenido simbólico de unir la sede del Poder Ejecutivo (Casa Rosada) con la sede del Poder Judicial (Palacio de la Corte Suprema de Justicia de la Nación), del mismo modo que la avenida de Mayo une a los poderes ejecutivo y legislativo.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Roque_S%C3%A1enz_Pe%C3%B1a"
+      }
     },
     {
       "current_name": "SÁENZ VALIENTE, ALMIRANTE JUAN PABLO",
@@ -18799,7 +19609,12 @@
           "name": "CORRIENTES",
           "description": "Antigua prolongación de la actual Corrientes."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Triunvirato",
+        "summary": "La avenida Triunvirato es una arteria vial de la Ciudad de Buenos Aires, Argentina.\nBajo su recorrido, corre parte de la Línea B del subte porteño encontrándose su estación terminal Juan Manuel de Rosas en el cruce con la calle Monroe. \nToma el nombre de los gobiernos de las Provincias Unidas del Río de la Plata entre 1811 y 1814, los Primer y Segundo Triunviratos",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Triunvirato"
+      }
     },
     {
       "current_name": "TROILO, ANÍBAL",
@@ -19030,7 +19845,12 @@
       "current_name": "UDAONDO, GUILLERMO",
       "description": "Ordenanza N° 11.104/1939, B.M. N° 5.722. Sin nombre anterior.",
       "legal_basis": "Ordenanza N° 11.",
-      "no_previous_name": true
+      "no_previous_name": true,
+      "wikipedia": {
+        "title": "Avenida Udaondo",
+        "summary": "La avenida Guillermo Udaondo es una arteria vial de la Ciudad de Buenos Aires, Argentina.\nEx avenida Río de la Plata inaugurada en 1936 conjuntamente asfaltada con la avenida Centenario (hoy Figueroa Alcorta), Lidoro Quinteros (la del boulevard del Barrio Parque Gral. Belgrano) y la avenida Blandengues (hoy Libertador Gral. San Martín).",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Udaondo"
+      }
     },
     {
       "current_name": "UGARTE, MANUEL",
@@ -19039,7 +19859,12 @@
       "previous_names": [
         "Oliver segunda",
         "Nahuel Huapí"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Ugarte",
+        "summary": "La Avenida Gobernador Marcelino Ugarte es una de las avenidas más importantes del Partido de Vicente López, parte del Gran Buenos Aires. Es la continuación de la Avenida Corrientes y a su vez, su continuación es la Avenida Vélez Sársfield, en el barrio de Munro.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Ugarte"
+      }
     },
     {
       "current_name": "UGARTECHE",
@@ -19196,7 +20021,12 @@
           "description": "La denominación Telégrafo abarcaba el tramo de Valdenegro comprendido entre las actuales Manuela Pedraza y Crisólogo Larralde. Telégrafo: homenaje a este medio de comunicación, cuya primera línea se instaló en el país en 1860 y unía Buenos Aires con el pueblo de Moreno.",
           "etymology": "homenaje a este medio de comunicación, cuya primera línea se instaló en el país en 1860 y unía Buenos Aires con el pueblo de Moreno."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Valdenegro",
+        "summary": "La Calle Valdenegro es una calle de la Ciudad de Buenos Aires, Argentina, de los barrios de Saavedra y Villa Urquiza",
+        "url": "https://es.wikipedia.org/wiki/Calle_Valdenegro"
+      }
     },
     {
       "current_name": "VALDERRAMA",
@@ -19406,12 +20236,22 @@
       "previous_names": [
         "Córdoba segunda",
         "Guayanas"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Niceto Vega",
+        "summary": "La avenida Niceto Vega es una arteria vial de la Ciudad de Buenos Aires, Argentina que recorre el barrio de  Palermo desde la avenida Dorrego hasta la Avenida Scalabrini Ortiz, en el año 2019 se habilita el cruce sin barreras de dicha avenida.​ Su longitud es de 2 km.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Niceto_Vega"
+      }
     },
     {
       "current_name": "VEGA, LOPE DE",
       "description": "Ordenanza del 27/11/1893. Vega. Plano Municipal, 1895. Esta denominación abarcaba el tramo comprendido entre las actuales Juan B. Justo y General Paz; recibió el de Lope de Vega en el Plano Municipal del año 1904.",
-      "legal_basis": "Ordenanza del 27/11/1893."
+      "legal_basis": "Ordenanza del 27/11/1893.",
+      "wikipedia": {
+        "title": "Avenida Niceto Vega",
+        "summary": "La avenida Niceto Vega es una arteria vial de la Ciudad de Buenos Aires, Argentina que recorre el barrio de  Palermo desde la avenida Dorrego hasta la Avenida Scalabrini Ortiz, en el año 2019 se habilita el cruce sin barreras de dicha avenida.​ Su longitud es de 2 km.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Niceto_Vega"
+      }
     },
     {
       "current_name": "VEGA, VENTURA DE LA",
@@ -19420,7 +20260,12 @@
       "previous_names": [
         "Camino al Puente Alsina",
         "Camino Antiguo al Puente Alsina"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Niceto Vega",
+        "summary": "La avenida Niceto Vega es una arteria vial de la Ciudad de Buenos Aires, Argentina que recorre el barrio de  Palermo desde la avenida Dorrego hasta la Avenida Scalabrini Ortiz, en el año 2019 se habilita el cruce sin barreras de dicha avenida.​ Su longitud es de 2 km.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Niceto_Vega"
+      }
     },
     {
       "current_name": "VELARDE PEDRO",
@@ -19978,7 +20823,12 @@
     {
       "current_name": "VÉLEZ DOCTOR BERNARDO",
       "description": "Decreto-Ordenanza N° 11.611/1949, B.M. N° 8.686. Pasaje Particular. Plano Peuser, 1935.",
-      "legal_basis": "Decreto-Ordenanza N° 11."
+      "legal_basis": "Decreto-Ordenanza N° 11.",
+      "wikipedia": {
+        "title": "Avenida Vélez Sársfield (Munro)",
+        "summary": "La avenida Vélez Sársfield es una importante arteria del oeste del Partido de Vicente López, parte del Gran Buenos Aires.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_V%C3%A9lez_S%C3%A1rsfield_(Munro)"
+      }
     },
     {
       "current_name": "VÉLEZ SARSFIELD",
@@ -19990,7 +20840,12 @@
           "description": "Antigua prolongación de la actual Entre Ríos. Entre Ríos: provincia de la República Argentina. Capital: Paraná.",
           "etymology": "provincia de la República Argentina."
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Vélez Sársfield (Buenos Aires)",
+        "summary": "La avenida Vélez Sársfield es una importante arteria vial del sur de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_V%C3%A9lez_S%C3%A1rsfield_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "VÉRTIZ, VIRREY",
@@ -20001,7 +20856,12 @@
         "Vértiz",
         "Gutenberg",
         "Luis María Campos"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Virrey Vértiz",
+        "summary": "La avenida Virrey Vértiz es una corta avenida de la ciudad de Buenos Aires, Argentina. Circula enteramente por el barrio de Belgrano, sirviendo como continuación de la avenida Luis María Campos.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Virrey_V%C3%A9rtiz"
+      }
     },
     {
       "current_name": "WAGNER",
@@ -20045,7 +20905,12 @@
         {
           "name": "CAMINO DE LAS TROPAS"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Warnes",
+        "summary": "La avenida Warnes es una arteria vial de la Ciudad de Buenos Aires, Argentina. La avenida lleva su nombre en homenaje al coronel Ignacio Warnes, guerrero de la independencia.\nSe caracteriza por el comercio de todo tipo de repuestos para automóviles y numerosos talleres que se dedican a su reparación.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Warnes"
+      }
     },
     {
       "current_name": "WASHINGTON",
@@ -20187,7 +21052,12 @@
       "previous_names": [
         "Villota",
         "Victoria"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Calle Hipólito Yrigoyen",
+        "summary": "La calle Hipólito Yrigoyen es una arteria vial que recorre el centro histórico de la ciudad de Buenos Aires, Argentina. Corre en sentido oeste-este, paralela en todo su recorrido a la avenida Rivadavia, cuyo tránsito va en sentido opuesto.​",
+        "url": "https://es.wikipedia.org/wiki/Calle_Hip%C3%B3lito_Yrigoyen"
+      }
     },
     {
       "current_name": "YRUPÉ",
@@ -20568,7 +21438,12 @@
             "profession": "jurisconsulto"
           }
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Álvarez Jonte",
+        "summary": "La avenida Álvarez Jonte es una arteria vial de la Ciudad de Buenos Aires, Argentina.\nToma el nombre de Antonio Álvarez Jonte quien fuera miembro del Segundo Triunvirato en 1812 y colaborador de José de San Martín.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_%C3%81lvarez_Jonte"
+      }
     },
     {
       "current_name": "ÁLVAREZ PRADO, MANUEL",
@@ -20587,17 +21462,32 @@
         {
           "name": "CÓRDOBA SEGUNDA"
         }
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Donato Álvarez (Buenos Aires)",
+        "summary": "La avenida Teniente General Donato Álvarez es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Donato_%C3%81lvarez_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ÁLVAREZ, AGUSTÍN",
       "description": "Ordenanza N° 5.572/1934, B.M. N° 3.693. Felipe Restano. Plano Bemporat, 1931/1932.",
-      "legal_basis": "Ordenanza N° 5."
+      "legal_basis": "Ordenanza N° 5.",
+      "wikipedia": {
+        "title": "Avenida Donato Álvarez (Buenos Aires)",
+        "summary": "La avenida Teniente General Donato Álvarez es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Donato_%C3%81lvarez_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ÁLVAREZ, CRISÓSTOMO",
       "description": "Ordenanza del 28/10/1904 Ramos. Caso similar al de Pelayo. Véase ACHEGA.",
-      "legal_basis": "Ordenanza del 28/10/1904 Ramos."
+      "legal_basis": "Ordenanza del 28/10/1904 Ramos.",
+      "wikipedia": {
+        "title": "Avenida Donato Álvarez (Buenos Aires)",
+        "summary": "La avenida Teniente General Donato Álvarez es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Donato_%C3%81lvarez_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ÁLVAREZ, JULIÁN",
@@ -20606,7 +21496,12 @@
       "previous_names": [
         "Aráoz segunda",
         "Álvarez"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Donato Álvarez (Buenos Aires)",
+        "summary": "La avenida Teniente General Donato Álvarez es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Donato_%C3%81lvarez_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ÁLVAREZ, TENIENTE GENERAL DONATO",
@@ -20615,7 +21510,12 @@
       "previous_names": [
         "Camino de las Tropas",
         "Bella Vista"
-      ]
+      ],
+      "wikipedia": {
+        "title": "Avenida Donato Álvarez (Buenos Aires)",
+        "summary": "La avenida Teniente General Donato Álvarez es una arteria vial de la Ciudad de Buenos Aires, Argentina.",
+        "url": "https://es.wikipedia.org/wiki/Avenida_Donato_%C3%81lvarez_(Buenos_Aires)"
+      }
     },
     {
       "current_name": "ÁLZAGA",

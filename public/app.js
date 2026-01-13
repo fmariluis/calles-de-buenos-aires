@@ -187,6 +187,15 @@ function showStreetInfo(street) {
     html += '</div>';
   }
 
+  // Wikipedia info
+  if (street.wikipedia) {
+    html += `<div class="section wikipedia-section">
+      <div class="section-title">Wikipedia</div>
+      <p>${street.wikipedia.summary}</p>
+      <a href="${street.wikipedia.url}" target="_blank" class="wikipedia-link">Leer más en Wikipedia →</a>
+    </div>`;
+  }
+
   historyEl.innerHTML = html;
   panel.classList.remove('hidden');
 }
