@@ -4,9 +4,10 @@ Interactive map showing the history and origin of Buenos Aires street names.
 
 ## Data Source
 
-Street history data extracted from "Las calles de Buenos Aires. Sus nombres desde la fundación hasta nuestros días" by Alberto Gabriel Piñeiro, published by Instituto Histórico de la Ciudad de Buenos Aires (2003).
+Street history data extracted from ["Las calles de Buenos Aires. Sus nombres desde la fundación hasta nuestros días"](https://buenosaires.gob.ar/sites/default/files/media/document/2015/02/09/3fd44fa1d07d8bba93b6e2f8879092b3a1d81f9f.pdf) (PDF) by Alberto Gabriel Piñeiro, published by Instituto Histórico de la Ciudad de Buenos Aires (2003).
 
 - 2,072 streets documented
+- 180 streets enriched with Wikipedia data
 - ~87% matched with OpenStreetMap geographic data
 
 ## Development
