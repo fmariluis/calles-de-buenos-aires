@@ -2,6 +2,9 @@
 let map;
 let streetData = {};
 let streetsLayer;
+let streetLayers = {}; // Map street names to their layers for highlighting
+let allStreetNames = []; // For search
+let highlightedLayer = null;
 
 // Initialize the map centered on Buenos Aires
 function initMap() {
@@ -97,6 +100,8 @@ async function loadStreetsGeoJSON() {
 
     const geojson = await response.json();
 
+    const streetNamesSet = new Set();
+
     streetsLayer = L.geoJSON(geojson, {
       style: {
         color: '#3182ce',
@@ -109,6 +114,13 @@ async function loadStreetsGeoJSON() {
           const normalizedName = normalizeStreetName(streetName);
           const historyData = streetData[normalizedName];
 
+          // Track layers by street name for search/highlight
+          if (!streetLayers[streetName]) {
+            streetLayers[streetName] = [];
+          }
+          streetLayers[streetName].push(layer);
+          streetNamesSet.add(streetName);
+
           if (historyData) {
             layer.setStyle({ color: '#38a169', weight: 3 });
             layer.on('click', () => showStreetInfo(historyData));
@@ -118,7 +130,12 @@ async function loadStreetsGeoJSON() {
       }
     }).addTo(map);
 
-    console.log('Streets layer loaded');
+    // Build searchable street list
+    allStreetNames = Array.from(streetNamesSet).sort();
+    console.log(`Streets layer loaded with ${allStreetNames.length} unique names`);
+
+    // Initialize search
+    initSearch();
   } catch (error) {
     console.log('Could not load streets GeoJSON:', error.message);
   }
@@ -181,6 +198,111 @@ function closePanel() {
 
 function hideLoading() {
   document.getElementById('loading').classList.add('hidden');
+}
+
+// Search functionality
+function initSearch() {
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+
+  input.addEventListener('input', (e) => {
+    const query = e.target.value.trim();
+    if (query.length < 2) {
+      results.classList.remove('visible');
+      return;
+    }
+    showSearchResults(query);
+  });
+
+  input.addEventListener('focus', () => {
+    if (input.value.trim().length >= 2) {
+      results.classList.add('visible');
+    }
+  });
+
+  // Hide results when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('#search-container')) {
+      results.classList.remove('visible');
+    }
+  });
+}
+
+function showSearchResults(query) {
+  const results = document.getElementById('search-results');
+  const normalizedQuery = normalizeStreetName(query);
+
+  // Filter streets matching the query
+  const matches = allStreetNames.filter(name => {
+    const normalized = normalizeStreetName(name);
+    return normalized.includes(normalizedQuery);
+  }).slice(0, 10); // Limit to 10 results
+
+  if (matches.length === 0) {
+    results.innerHTML = '<div class="search-result-item">No se encontraron calles</div>';
+  } else {
+    results.innerHTML = matches.map(name => {
+      const normalizedName = normalizeStreetName(name);
+      const hasHistory = !!streetData[normalizedName];
+      return `
+        <div class="search-result-item" data-street="${name}">
+          <span class="street-name">${name}</span>
+          ${hasHistory ? '<span class="has-history">con historia</span>' : ''}
+        </div>
+      `;
+    }).join('');
+
+    // Add click handlers
+    results.querySelectorAll('.search-result-item[data-street]').forEach(item => {
+      item.addEventListener('click', () => {
+        const streetName = item.dataset.street;
+        selectStreet(streetName);
+        results.classList.remove('visible');
+        document.getElementById('search-input').value = streetName;
+      });
+    });
+  }
+
+  results.classList.add('visible');
+}
+
+let previousStreetName = null;
+
+function selectStreet(streetName) {
+  // Clear previous highlight
+  if (highlightedLayer && previousStreetName) {
+    const prevNormalized = normalizeStreetName(previousStreetName);
+    const hadHistory = !!streetData[prevNormalized];
+    highlightedLayer.forEach(layer => {
+      layer.setStyle({
+        color: hadHistory ? '#38a169' : '#3182ce',
+        weight: hadHistory ? 3 : 2
+      });
+    });
+  }
+
+  // Highlight selected street
+  const layers = streetLayers[streetName];
+  if (layers && layers.length > 0) {
+    // Calculate bounds of all segments
+    const bounds = L.latLngBounds();
+    layers.forEach(layer => {
+      layer.setStyle({ color: '#e53e3e', weight: 5 });
+      bounds.extend(layer.getBounds());
+    });
+    highlightedLayer = layers;
+    previousStreetName = streetName;
+
+    // Zoom to street
+    map.fitBounds(bounds, { padding: [50, 50], maxZoom: 16 });
+
+    // Show info if has history
+    const normalizedName = normalizeStreetName(streetName);
+    const historyData = streetData[normalizedName];
+    if (historyData) {
+      showStreetInfo(historyData);
+    }
+  }
 }
 
 // Event listeners

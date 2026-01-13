@@ -31,6 +31,68 @@ body {
   color: #666;
 }
 
+#search-container {
+  position: relative;
+  margin-top: 10px;
+}
+
+#search-input {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+#search-input:focus {
+  outline: none;
+  border-color: #3182ce;
+}
+
+#search-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-top: none;
+  border-radius: 0 0 4px 4px;
+  max-height: 250px;
+  overflow-y: auto;
+  display: none;
+  z-index: 1001;
+}
+
+#search-results.visible {
+  display: block;
+}
+
+.search-result-item {
+  padding: 8px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover {
+  background: #f7fafc;
+}
+
+.search-result-item .street-name {
+  font-weight: 500;
+  color: #1a365d;
+}
+
+.search-result-item .has-history {
+  font-size: 0.75rem;
+  color: #38a169;
+  margin-left: 6px;
+}
+
 #map {
   width: 100vw;
   height: 100vh;
