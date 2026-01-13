@@ -6,6 +6,47 @@ let streetLayers = {}; // Map street names to their layers for highlighting
 let allStreetNames = []; // For search
 let highlightedLayer = null;
 
+// Escape HTML to prevent XSS
+function escapeHtml(text) {
+  if (!text) return '';
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+// Validate Wikipedia URLs
+function isValidWikipediaUrl(url) {
+  if (!url) return false;
+  try {
+    const parsed = new URL(url);
+    return parsed.hostname.endsWith('wikipedia.org') && parsed.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
+// Show error message to user
+function showError(message) {
+  const errorEl = document.getElementById('error-message');
+  if (errorEl) {
+    errorEl.textContent = message;
+    errorEl.classList.remove('hidden');
+  }
+}
+
+// Debounce function for search
+function debounce(func, wait) {
+  let timeout;
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+}
+
 // Initialize the map centered on Buenos Aires
 function initMap() {
   map = L.map('map').setView([-34.6037, -58.3816], 13);
@@ -42,6 +83,7 @@ async function loadStreetData() {
     hideLoading();
   } catch (error) {
     console.error('Error loading street data:', error);
+    showError('Error al cargar los datos de las calles. Por favor, recarga la página.');
     hideLoading();
   }
 }
@@ -155,7 +197,7 @@ function showStreetInfo(street) {
   if (street.description) {
     html += `<div class="section">
       <div class="section-title">Historia</div>
-      <p>${street.description}</p>
+      <p>${escapeHtml(street.description)}</p>
     </div>`;
   }
 
@@ -163,7 +205,7 @@ function showStreetInfo(street) {
   if (street.legal_basis) {
     html += `<div class="section">
       <div class="section-title">Base legal</div>
-      <p>${street.legal_basis}</p>
+      <p>${escapeHtml(street.legal_basis)}</p>
     </div>`;
   }
 
@@ -175,11 +217,11 @@ function showStreetInfo(street) {
 
     previousNames.forEach(name => {
       if (typeof name === 'string') {
-        html += `<span class="previous-name">${name}</span>`;
+        html += `<span class="previous-name">${escapeHtml(name)}</span>`;
       } else if (name.name) {
-        html += `<span class="previous-name">${name.name}</span>`;
+        html += `<span class="previous-name">${escapeHtml(name.name)}</span>`;
         if (name.description) {
-          html += `<p style="margin-top: 8px; font-size: 0.9rem;">${name.description}</p>`;
+          html += `<p style="margin-top: 8px; font-size: 0.9rem;">${escapeHtml(name.description)}</p>`;
         }
       }
     });
@@ -188,11 +230,11 @@ function showStreetInfo(street) {
   }
 
   // Wikipedia info
-  if (street.wikipedia) {
+  if (street.wikipedia && isValidWikipediaUrl(street.wikipedia.url)) {
     html += `<div class="section wikipedia-section">
       <div class="section-title">Wikipedia</div>
-      <p>${street.wikipedia.summary}</p>
-      <a href="${street.wikipedia.url}" target="_blank" class="wikipedia-link">Leer más en Wikipedia →</a>
+      <p>${escapeHtml(street.wikipedia.summary)}</p>
+      <a href="${escapeHtml(street.wikipedia.url)}" target="_blank" rel="noopener noreferrer" class="wikipedia-link">Leer más en Wikipedia →</a>
     </div>`;
   }
 
@@ -214,18 +256,33 @@ function initSearch() {
   const input = document.getElementById('search-input');
   const results = document.getElementById('search-results');
 
-  input.addEventListener('input', (e) => {
-    const query = e.target.value.trim();
+  // Debounced search handler
+  const debouncedSearch = debounce((query) => {
     if (query.length < 2) {
       results.classList.remove('visible');
       return;
     }
     showSearchResults(query);
+  }, 200);
+
+  input.addEventListener('input', (e) => {
+    debouncedSearch(e.target.value.trim());
   });
 
   input.addEventListener('focus', () => {
     if (input.value.trim().length >= 2) {
       results.classList.add('visible');
+    }
+  });
+
+  // Event delegation for search results (fixes memory leak)
+  results.addEventListener('click', (e) => {
+    const item = e.target.closest('.search-result-item[data-street]');
+    if (item) {
+      const streetName = item.dataset.street;
+      selectStreet(streetName);
+      results.classList.remove('visible');
+      input.value = streetName;
     }
   });
 
@@ -254,22 +311,13 @@ function showSearchResults(query) {
       const normalizedName = normalizeStreetName(name);
       const hasHistory = !!streetData[normalizedName];
       return `
-        <div class="search-result-item" data-street="${name}">
-          <span class="street-name">${name}</span>
+        <div class="search-result-item" data-street="${escapeHtml(name)}">
+          <span class="street-name">${escapeHtml(name)}</span>
           ${hasHistory ? '<span class="has-history">con historia</span>' : ''}
         </div>
       `;
     }).join('');
-
-    // Add click handlers
-    results.querySelectorAll('.search-result-item[data-street]').forEach(item => {
-      item.addEventListener('click', () => {
-        const streetName = item.dataset.street;
-        selectStreet(streetName);
-        results.classList.remove('visible');
-        document.getElementById('search-input').value = streetName;
-      });
-    });
+    // Click handlers use event delegation in initSearch()
   }
 
   results.classList.add('visible');
