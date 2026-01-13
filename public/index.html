@@ -3,6 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Mapa interactivo con la historia y origen de los nombres de las calles de Buenos Aires">
+  <meta name="theme-color" content="#1a365d">
+  <meta property="og:title" content="Calles de Buenos Aires - Historia">
+  <meta property="og:description" content="Mapa interactivo con la historia y origen de los nombres de las calles de Buenos Aires">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_AR">
   <title>Calles de Buenos Aires - Historia</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <link rel="stylesheet" href="style.css">
@@ -12,22 +18,22 @@
     <h1>Calles de Buenos Aires</h1>
     <p><a href="#" id="about-link">Acerca de este proyecto</a></p>
     <div id="search-container">
-      <input type="text" id="search-input" placeholder="Buscar calle..." autocomplete="off">
-      <div id="search-results"></div>
+      <input type="text" id="search-input" placeholder="Buscar calle..." autocomplete="off" aria-label="Buscar calle" aria-controls="search-results" aria-autocomplete="list">
+      <div id="search-results" role="listbox" aria-label="Resultados de búsqueda"></div>
     </div>
   </header>
   <div id="map"></div>
-  <div id="info-panel" class="hidden">
-    <button id="close-panel">&times;</button>
+  <div id="info-panel" class="hidden" role="dialog" aria-labelledby="street-name" aria-modal="false" tabindex="-1">
+    <button id="close-panel" aria-label="Cerrar panel">&times;</button>
     <h2 id="street-name"></h2>
     <div id="street-history"></div>
   </div>
   <div id="loading">Cargando mapa...</div>
   <div id="error-message" class="hidden"></div>
-  <div id="about-modal" class="hidden">
+  <div id="about-modal" class="hidden" role="dialog" aria-labelledby="about-title" aria-modal="true">
     <div id="about-content">
-      <button id="close-about">&times;</button>
-      <h2>Acerca de este proyecto</h2>
+      <button id="close-about" aria-label="Cerrar">&times;</button>
+      <h2 id="about-title">Acerca de este proyecto</h2>
 
       <h3>Fuente de datos</h3>
       <p>La información histórica de las calles proviene del libro <em>"Las calles de Buenos Aires. Sus nombres desde la fundación hasta nuestros días"</em> de Alberto Gabriel Piñeiro, publicado por el Instituto Histórico de la Ciudad de Buenos Aires (2003).</p>

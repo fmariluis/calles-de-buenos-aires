@@ -32,13 +32,27 @@ function fuzzyNormalize(name) {
   // "CALLE X" -> "X"
   n = n.replace(/^CALLE\s+/, '');
 
-  // "X, Y" -> "Y X" (for names like "ACEVEDO, EDUARDO" -> "EDUARDO ACEVEDO")
-  if (n.includes(' ')) {
-    const parts = n.split(' ');
-    // Try reversing for "LASTNAME, FIRSTNAME" pattern
+  return n;
+}
+
+// Get all possible normalized variants for matching
+function getNameVariants(name) {
+  const variants = new Set();
+  const base = fuzzyNormalize(name);
+  variants.add(base);
+
+  // For "LASTNAME, FIRSTNAME" pattern, also try "FIRSTNAME LASTNAME"
+  if (name.includes(', ')) {
+    const parts = name.split(', ');
+    if (parts.length === 2) {
+      const reversed = `${parts[1]} ${parts[0]}`;
+      variants.add(fuzzyNormalize(reversed));
+    }
+    // Also try just the last name
+    variants.add(fuzzyNormalize(parts[0]));
   }
 
-  return n;
+  return variants;
 }
 
 async function analyze() {

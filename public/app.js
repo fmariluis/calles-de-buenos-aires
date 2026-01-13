@@ -1,10 +1,28 @@
 // Buenos Aires street history map
+
+// Configuration constants
+const CONFIG = {
+  MIN_SEARCH_LENGTH: 2,
+  MAX_SEARCH_RESULTS: 10,
+  DEBOUNCE_MS: 200,
+  MAP_CENTER: [-34.6037, -58.3816],
+  MAP_DEFAULT_ZOOM: 13,
+  MAP_MAX_ZOOM: 16,
+  MAP_PADDING: [50, 50],
+  COLORS: {
+    DEFAULT: '#3182ce',
+    WITH_HISTORY: '#38a169',
+    HIGHLIGHT: '#e53e3e'
+  }
+};
+
 let map;
 let streetData = {};
 let streetsLayer;
 let streetLayers = {}; // Map street names to their layers for highlighting
 let allStreetNames = []; // For search
 let highlightedLayer = null;
+let searchSelectedIndex = -1; // For keyboard navigation
 
 // Escape HTML to prevent XSS
 function escapeHtml(text) {
@@ -49,7 +67,7 @@ function debounce(func, wait) {
 
 // Initialize the map centered on Buenos Aires
 function initMap() {
-  map = L.map('map').setView([-34.6037, -58.3816], 13);
+  map = L.map('map').setView(CONFIG.MAP_CENTER, CONFIG.MAP_DEFAULT_ZOOM);
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -146,7 +164,7 @@ async function loadStreetsGeoJSON() {
 
     streetsLayer = L.geoJSON(geojson, {
       style: {
-        color: '#3182ce',
+        color: CONFIG.COLORS.DEFAULT,
         weight: 2,
         opacity: 0.7
       },
@@ -164,9 +182,13 @@ async function loadStreetsGeoJSON() {
           streetNamesSet.add(streetName);
 
           if (historyData) {
-            layer.setStyle({ color: '#38a169', weight: 3 });
+            layer.setStyle({ color: CONFIG.COLORS.WITH_HISTORY, weight: 3 });
             layer.on('click', () => showStreetInfo(historyData));
             layer.bindTooltip(streetName, { sticky: true });
+          } else {
+            // Show tooltip for streets without history
+            layer.bindTooltip(`${streetName} (sin información histórica)`, { sticky: true });
+            layer.on('click', () => showNoHistoryMessage(streetName));
           }
         }
       }
@@ -181,6 +203,25 @@ async function loadStreetsGeoJSON() {
   } catch (error) {
     console.log('Could not load streets GeoJSON:', error.message);
   }
+}
+
+// Show message for streets without historical data
+function showNoHistoryMessage(streetName) {
+  const panel = document.getElementById('info-panel');
+  const nameEl = document.getElementById('street-name');
+  const historyEl = document.getElementById('street-history');
+
+  nameEl.textContent = streetName;
+  historyEl.innerHTML = `
+    <div class="section">
+      <p class="no-history-message">No hay información histórica disponible para esta calle en nuestra base de datos.</p>
+      <p style="margin-top: 10px; font-size: 0.9rem; color: #666;">
+        Las calles en <span style="color: ${CONFIG.COLORS.WITH_HISTORY}; font-weight: bold;">verde</span> tienen información histórica.
+      </p>
+    </div>
+  `;
+  panel.classList.remove('hidden');
+  panel.focus();
 }
 
 // Show street information in the panel
@@ -240,6 +281,7 @@ function showStreetInfo(street) {
 
   historyEl.innerHTML = html;
   panel.classList.remove('hidden');
+  panel.focus();
 }
 
 // Close the info panel
@@ -258,20 +300,44 @@ function initSearch() {
 
   // Debounced search handler
   const debouncedSearch = debounce((query) => {
-    if (query.length < 2) {
+    if (query.length < CONFIG.MIN_SEARCH_LENGTH) {
       results.classList.remove('visible');
       return;
     }
     showSearchResults(query);
-  }, 200);
+  }, CONFIG.DEBOUNCE_MS);
 
   input.addEventListener('input', (e) => {
+    searchSelectedIndex = -1;
     debouncedSearch(e.target.value.trim());
   });
 
   input.addEventListener('focus', () => {
-    if (input.value.trim().length >= 2) {
+    if (input.value.trim().length >= CONFIG.MIN_SEARCH_LENGTH) {
       results.classList.add('visible');
+    }
+  });
+
+  // Keyboard navigation for search results
+  input.addEventListener('keydown', (e) => {
+    const items = results.querySelectorAll('.search-result-item[data-street]');
+    if (items.length === 0) return;
+
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      searchSelectedIndex = Math.min(searchSelectedIndex + 1, items.length - 1);
+      updateSearchSelection(items);
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      searchSelectedIndex = Math.max(searchSelectedIndex - 1, -1);
+      updateSearchSelection(items);
+    } else if (e.key === 'Enter' && searchSelectedIndex >= 0) {
+      e.preventDefault();
+      const streetName = items[searchSelectedIndex].dataset.street;
+      selectStreet(streetName);
+      results.classList.remove('visible');
+      input.value = streetName;
+      searchSelectedIndex = -1;
     }
   });
 
@@ -290,6 +356,21 @@ function initSearch() {
   document.addEventListener('click', (e) => {
     if (!e.target.closest('#search-container')) {
       results.classList.remove('visible');
+      searchSelectedIndex = -1;
+    }
+  });
+}
+
+// Update visual selection in search results
+function updateSearchSelection(items) {
+  items.forEach((item, index) => {
+    if (index === searchSelectedIndex) {
+      item.classList.add('selected');
+      item.setAttribute('aria-selected', 'true');
+      item.scrollIntoView({ block: 'nearest' });
+    } else {
+      item.classList.remove('selected');
+      item.setAttribute('aria-selected', 'false');
     }
   });
 }
@@ -302,22 +383,23 @@ function showSearchResults(query) {
   const matches = allStreetNames.filter(name => {
     const normalized = normalizeStreetName(name);
     return normalized.includes(normalizedQuery);
-  }).slice(0, 10); // Limit to 10 results
+  }).slice(0, CONFIG.MAX_SEARCH_RESULTS);
+
+  searchSelectedIndex = -1;
 
   if (matches.length === 0) {
-    results.innerHTML = '<div class="search-result-item">No se encontraron calles</div>';
+    results.innerHTML = '<div class="search-result-item" role="option">No se encontraron calles</div>';
   } else {
-    results.innerHTML = matches.map(name => {
+    results.innerHTML = matches.map((name, index) => {
       const normalizedName = normalizeStreetName(name);
       const hasHistory = !!streetData[normalizedName];
       return `
-        <div class="search-result-item" data-street="${escapeHtml(name)}">
+        <div class="search-result-item" data-street="${escapeHtml(name)}" role="option" aria-selected="false" id="search-option-${index}">
           <span class="street-name">${escapeHtml(name)}</span>
           ${hasHistory ? '<span class="has-history">con historia</span>' : ''}
         </div>
       `;
     }).join('');
-    // Click handlers use event delegation in initSearch()
   }
 
   results.classList.add('visible');
@@ -332,7 +414,7 @@ function selectStreet(streetName) {
     const hadHistory = !!streetData[prevNormalized];
     highlightedLayer.forEach(layer => {
       layer.setStyle({
-        color: hadHistory ? '#38a169' : '#3182ce',
+        color: hadHistory ? CONFIG.COLORS.WITH_HISTORY : CONFIG.COLORS.DEFAULT,
         weight: hadHistory ? 3 : 2
       });
     });
@@ -344,20 +426,22 @@ function selectStreet(streetName) {
     // Calculate bounds of all segments
     const bounds = L.latLngBounds();
     layers.forEach(layer => {
-      layer.setStyle({ color: '#e53e3e', weight: 5 });
+      layer.setStyle({ color: CONFIG.COLORS.HIGHLIGHT, weight: 5 });
       bounds.extend(layer.getBounds());
     });
     highlightedLayer = layers;
     previousStreetName = streetName;
 
     // Zoom to street
-    map.fitBounds(bounds, { padding: [50, 50], maxZoom: 16 });
+    map.fitBounds(bounds, { padding: CONFIG.MAP_PADDING, maxZoom: CONFIG.MAP_MAX_ZOOM });
 
-    // Show info if has history
+    // Show info (with or without history)
     const normalizedName = normalizeStreetName(streetName);
     const historyData = streetData[normalizedName];
     if (historyData) {
       showStreetInfo(historyData);
+    } else {
+      showNoHistoryMessage(streetName);
     }
   }
 }
@@ -365,19 +449,50 @@ function selectStreet(streetName) {
 // Event listeners
 document.getElementById('close-panel').addEventListener('click', closePanel);
 
+// Track element that opened modal for focus restoration
+let previouslyFocusedElement = null;
+
 // About modal
 document.getElementById('about-link').addEventListener('click', (e) => {
   e.preventDefault();
-  document.getElementById('about-modal').classList.remove('hidden');
+  previouslyFocusedElement = document.activeElement;
+  const modal = document.getElementById('about-modal');
+  modal.classList.remove('hidden');
+  document.getElementById('close-about').focus();
 });
 
-document.getElementById('close-about').addEventListener('click', () => {
+function closeAboutModal() {
   document.getElementById('about-modal').classList.add('hidden');
-});
+  if (previouslyFocusedElement) {
+    previouslyFocusedElement.focus();
+    previouslyFocusedElement = null;
+  }
+}
+
+document.getElementById('close-about').addEventListener('click', closeAboutModal);
 
 document.getElementById('about-modal').addEventListener('click', (e) => {
   if (e.target.id === 'about-modal') {
-    document.getElementById('about-modal').classList.add('hidden');
+    closeAboutModal();
+  }
+});
+
+// Focus trap for about modal
+document.getElementById('about-content').addEventListener('keydown', (e) => {
+  if (e.key === 'Tab') {
+    const focusableElements = document.getElementById('about-content').querySelectorAll(
+      'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+    );
+    const firstElement = focusableElements[0];
+    const lastElement = focusableElements[focusableElements.length - 1];
+
+    if (e.shiftKey && document.activeElement === firstElement) {
+      e.preventDefault();
+      lastElement.focus();
+    } else if (!e.shiftKey && document.activeElement === lastElement) {
+      e.preventDefault();
+      firstElement.focus();
+    }
   }
 });
 
@@ -385,7 +500,9 @@ document.getElementById('about-modal').addEventListener('click', (e) => {
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') {
     closePanel();
-    document.getElementById('about-modal').classList.add('hidden');
+    if (!document.getElementById('about-modal').classList.contains('hidden')) {
+      closeAboutModal();
+    }
   }
 });
 

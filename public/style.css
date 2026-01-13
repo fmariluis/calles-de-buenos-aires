@@ -87,8 +87,15 @@ body {
   border-bottom: none;
 }
 
-.search-result-item:hover {
+.search-result-item:hover,
+.search-result-item.selected {
   background: #f7fafc;
+}
+
+.search-result-item.selected {
+  background: #e2e8f0;
+  outline: 2px solid #3182ce;
+  outline-offset: -2px;
 }
 
 .search-result-item .street-name {
@@ -177,6 +184,22 @@ body {
   display: inline-block;
   margin: 3px;
   font-size: 0.9rem;
+}
+
+.no-history-message {
+  color: #666;
+  font-style: italic;
+}
+
+/* Focus styles for accessibility */
+#info-panel:focus {
+  outline: none;
+}
+
+#close-panel:focus,
+#close-about:focus {
+  outline: 2px solid #3182ce;
+  outline-offset: 2px;
 }
 
 #loading {
