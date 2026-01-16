@@ -489,8 +489,27 @@ function showStreetInfo(street, streetName) {
 }
 
 // Close the info panel
-function closePanel() {
+function clearHighlightedStreet() {
+  if (highlightedLayer && previousStreetName) {
+    const prevNormalized = normalizeStreetName(previousStreetName);
+    const hadHistory = !!streetData[prevNormalized];
+    highlightedLayer.forEach(layer => {
+      layer.setStyle({
+        color: hadHistory ? CONFIG.COLORS.WITH_HISTORY : CONFIG.COLORS.DEFAULT,
+        weight: hadHistory ? 3 : 2
+      });
+    });
+    highlightedLayer = null;
+    previousStreetName = null;
+  }
+}
+
+function closePanel({ shouldUpdateUrl = true } = {}) {
   document.getElementById('info-panel').classList.add('hidden');
+  clearHighlightedStreet();
+  if (shouldUpdateUrl) {
+    clearURLStreet();
+  }
 }
 
 function hideLoading() {
@@ -727,19 +746,7 @@ window.addEventListener('popstate', (event) => {
     }
   } else {
     // No street in URL, close panel and clear highlight
-    closePanel();
-    if (highlightedLayer && previousStreetName) {
-      const prevNormalized = normalizeStreetName(previousStreetName);
-      const hadHistory = !!streetData[prevNormalized];
-      highlightedLayer.forEach(layer => {
-        layer.setStyle({
-          color: hadHistory ? CONFIG.COLORS.WITH_HISTORY : CONFIG.COLORS.DEFAULT,
-          weight: hadHistory ? 3 : 2
-        });
-      });
-      highlightedLayer = null;
-      previousStreetName = null;
-    }
+    closePanel({ shouldUpdateUrl: false });
   }
 });
 
