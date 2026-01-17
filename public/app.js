@@ -55,6 +55,30 @@ function clearURLStreet() {
   history.pushState({}, '', url);
 }
 
+function resetToHome() {
+  closePanel({ shouldUpdateUrl: false });
+  clearURLStreet();
+
+  if (map) {
+    map.setView(CONFIG.MAP_CENTER, CONFIG.MAP_DEFAULT_ZOOM);
+  }
+
+  const results = document.getElementById('search-results');
+  if (results) {
+    results.classList.remove('visible');
+  }
+  const input = document.getElementById('search-input');
+  if (input) {
+    input.value = '';
+  }
+  searchSelectedIndex = -1;
+
+  const aboutModal = document.getElementById('about-modal');
+  if (aboutModal && !aboutModal.classList.contains('hidden')) {
+    closeAboutModal();
+  }
+}
+
 // Escape HTML to prevent XSS
 function escapeHtml(text) {
   if (!text) return '';
@@ -676,6 +700,10 @@ function selectStreet(streetName, shouldUpdateURL = true) {
 
 // Event listeners
 document.getElementById('close-panel').addEventListener('click', closePanel);
+document.getElementById('home-link').addEventListener('click', (e) => {
+  e.preventDefault();
+  resetToHome();
+});
 
 // Track element that opened modal for focus restoration
 let previouslyFocusedElement = null;
