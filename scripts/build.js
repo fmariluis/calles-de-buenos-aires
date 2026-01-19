@@ -57,6 +57,20 @@ async function build() {
     path.join(distDir, 'favicon.svg')
   );
 
+  // Copy robots.txt if present
+  const robotsSource = path.join(publicDir, 'robots.txt');
+  if (fs.existsSync(robotsSource)) {
+    console.log('Copying robots.txt...');
+    fs.copyFileSync(robotsSource, path.join(distDir, 'robots.txt'));
+  }
+
+  // Copy sitemap.xml if present
+  const sitemapSource = path.join(publicDir, 'sitemap.xml');
+  if (fs.existsSync(sitemapSource)) {
+    console.log('Copying sitemap.xml...');
+    fs.copyFileSync(sitemapSource, path.join(distDir, 'sitemap.xml'));
+  }
+
   // Copy data files
   console.log('Copying data files...');
   const dataDir = path.join(publicDir, 'data');
