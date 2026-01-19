@@ -322,16 +322,14 @@ async function loadStreetsGeoJSON() {
           if (historyData) {
             layer.setStyle({ color: CONFIG.COLORS.WITH_HISTORY, weight: 3 });
             layer.on('click', () => {
-              updateURL(streetName);
-              showStreetInfo(historyData, streetName);
+              selectStreet(streetName);
             });
             layer.bindTooltip(streetName, { sticky: true });
           } else {
             // Show tooltip for streets without history
             layer.bindTooltip(`${streetName} (sin información histórica)`, { sticky: true });
             layer.on('click', () => {
-              updateURL(streetName);
-              showNoHistoryMessage(streetName);
+              selectStreet(streetName);
             });
           }
         }
